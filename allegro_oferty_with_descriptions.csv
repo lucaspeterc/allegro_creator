@@ -1,0 +1,2041 @@
+ID Produktu,Nazwa Aukcji,Projekt,Technologia,Styl wizualny,Dodatki,Czas realizacji,Cena,Opis aukcji,Opis HTML
+custom-product-1,Strona internetowa - [React + NextJS + Node] Minimalistyczny (7 dni),Strona internetowa,React + NextJS + Node,Minimalistyczny,Brak,7 dni,1999,"Zamawiając produkty cyfrowe w naszym studiu zawsze otrzymujesz gotowy, kompleksowy i skalowany produkt zawierający:
+        - Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.
+        - Podstawowy pakiet wszystkich realizacji obejmuje między innymi: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)
+        - Najlepsza dostępna technologia. Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.
+        - Wybrany styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.
+        - Brak dodatkowych funkcji
+        - Czas realizacji: Standardowy czas realizacji wynoszący 7 dni roboczych – solidna praca w przemyślanym tempie.
+
+Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów.
+
+Skontaktuj się z nami w przypadku pytań: 
+        - E-mail: hello@varsa.codes
+        - Więcej informacji i pełna oferta: https://www.varsa.codes/","<!DOCTYPE html>
+        <html lang=""pl"">
+        <head>
+            <meta charset=""UTF-8"">
+            <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+            <title>Strona internetowa - Oferta</title>
+           <style>
+    body {
+        font-family: 'Courier New', monospace; /* Bold, raw font choice */
+        margin: 20px;
+        background: #f4f4f4; /* Light grey background */
+        color: #111; /* Darker, high-contrast text color */
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        border: 4px solid #111; /* Thick, unapologetic border */
+        border-radius: 0; /* Brutalist designs avoid rounded edges */
+        overflow: hidden;
+        box-shadow: none; /* Remove soft shadows */
+        background: #fff; /* Use solid white for container background */
+    }
+    .header {
+        background: #ff5722; /* Bright, bold color for emphasis */
+        color: #fff;
+        padding: 20px; /* Slightly larger padding for bold impact */
+        text-align: left; /* Shift to raw, uneven alignment */
+        border-bottom: 4px solid #111; /* Strong separation line */
+    }
+    .header h1 {
+        margin: 0;
+        font-size: 2.5rem; /* Bold, large headline */
+        text-transform: uppercase; /* Raw, bold typography */
+    }
+    .content {
+        padding: 30px;
+        font-size: 1.1rem; /* Slightly larger font for readability */
+        background: #f4f4f4; /* Consistent light-grey background */
+        color: #111; /* High-contrast text */
+        border-top: 4px solid #111; /* Bold section divider */
+    }
+    .features {
+        margin: 20px 0;
+        padding: 20px;
+        background: #fffb00; /* Bright yellow for emphasis */
+        border-left: 10px solid #111; /* Bold border */
+        font-weight: bold; /* Strong emphasis on text */
+    }
+    .footer {
+        background: #111; /* Dark, strong contrast footer */
+        text-align: center;
+        padding: 20px;
+        font-size: 14px;
+        color: #fff; /* White text for contrast */
+        border-top: 4px solid #ff5722; /* Connect footer to header visually */
+    }
+</style>
+
+        </head>
+        <body>
+            <div class=""container"">
+                <div class=""header"">
+                    <h1>Strona internetowa</h1>
+                </div>
+                <div class=""content"">
+                    <h2>Opis Produktu</h2>
+                    <p>Przedmiotem aukcji jest nowoczesny produkt cyfrowy: Strona internetowa.
+<br></br>    
+Dzięki zaawansowanym rozwiązaniom z zakresu sztucznej inteligencji, nasz zespół dostarcza cyfrowe produkty oparte na technologiach React i Next.js w atrakcyjnych cenach. AI pozwala nam przyspieszyć proces programistyczny, zapewniając klientom innowacyjne i wydajne rozwiązania bez kompromisów jakościowych.
+<br></br>    
+Zrezygnuj z ograniczeń przestarzałych systemów, takich jak WordPress, z jego powolnymi szablonami i wtyczkami. Nasze projekty wyróżniają się nowoczesnym designem, bezpieczeństwem i szybkością działania, które wprowadzają Twoją markę na wyższy poziom.
+<br></br>    
+Technologia, której używają liderzy branży – Facebook, Netflix, Nike – jest teraz dostępna dla Twojej firmy dzięki naszemu zespołowi w Software Studio Varsa Codes. Nie idź na kompromisy – wybierz rozwiązania, które pozwalają się wyróżnić w dynamicznym świecie online.
+
+</p>
+                    <br></br>
+                    <p><strong>Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.</strong></p>
+                    <br></br>
+                    <h2>Wybierając naszą ofertę otrzymasz:</h2>
+                    <ul>
+                        <li>Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.</li>
+                        <li>Styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.</li>
+                        <li>Funkcje domyślne: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)</li>
+                        <li>Dodatki: undefined</li>
+                        <li>Czas realizacji: Standardowy czas realizacji wynoszący 7 dni roboczych – solidna praca w przemyślanym tempie.</li>
+                        <li>Cena:<strong> 1999 PLN</strong></li>
+                    </ul>
+
+                    <h2>Proces realiazacji po zakupie</h2>
+
+                    <ul>
+                        <li>1. Skontaktujemy się z Tobą, aby omówić szczegóły projektu.</li>
+                        <li>2. Prześlemy Ci formularz i poprosimy o uzupełnienie danymi które będą potrzebne do stworzenia Twojego produktu.</li>
+                        <li>3. Przystąpimy do pracy i będziemy na bieżąco informować Cię o postępach.</li>
+                        <li>4. Otrzymasz demo produktu, na podstawie którego określisz swoje uwagi i poprawki.</li>
+                        <li>5. Po zmianach, otrzymasz finalny produkt, gotowy do publikacji.</li>
+                    </ul>
+
+                    <h2>O Nas</h2>
+                    <p> Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów. </p>
+                    
+                    <h2>Kontakt</h2>
+                    <p>
+                        Masz pytania? Skontaktuj się z nami: <br>
+                        <strong>E-mail:</strong> hello@varsa.codes <br>
+                        <strong>Strona internetowa:</strong> <a href=""https://www.varsa.codes"">https://www.varsa.codes</a>
+                    </p>
+
+                    <h2>Najczęściej zadawane pytania</h2>
+                    <ol>
+                        
+                <li>
+                    <strong>Czym jest React i NextJS?</strong>
+                    <p>React to nowoczesna biblioteka JavaScript, która pozwala tworzyć dynamiczne i responsywne interfejsy użytkownika. Next.js to framework oparty na React, który oferuje dodatkowe funkcjonalności, takie jak serwerowe renderowanie stron (SSR), generowanie statycznych stron (SSG) oraz wbudowaną optymalizację wydajności i SEO. Dzięki tej kombinacji aplikacje są szybkie, skalowalne i przyjazne użytkownikowi.</p>
+                </li>
+            
+                <li>
+                    <strong>Dlaczego produkty cyfrowe oparte o React i NextJS są lepsze niż Wordpress?</strong>
+                    <p>Produkty oparte na React i Next.js są szybsze, bardziej bezpieczne i elastyczne. W przeciwieństwie do WordPressa, który często wymaga dodatkowych wtyczek, React i Next.js oferują pełną kontrolę nad kodem i lepsze dostosowanie do specyficznych potrzeb. Dodatkowo aplikacje zbudowane na tych technologiach są bardziej przyszłościowe i łatwiejsze do skalowania.</p>
+                </li>
+            
+                <li>
+                    <strong>Która z wymienionych technologii jest nowocześniejsza i bardziej przyszłościowa?</strong>
+                    <p>React i Next.js to jedne z najnowocześniejszych i najbardziej przyszłościowych technologii dostępnych na rynku. Dzięki wsparciu dużej społeczności programistów oraz firm takich jak Meta i Vercel, technologie te stale się rozwijają i oferują nowoczesne rozwiązania, które są zgodne z trendami w branży IT.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest JavaScript i dlaczego ta technologia ma przewagę nad Wordpress?</strong>
+                    <p>JavaScript to język programowania, który jest fundamentem nowoczesnych stron internetowych i aplikacji. Umożliwia dynamiczne i interaktywne funkcje na stronach, takie jak animacje czy zaawansowane formularze. W odróżnieniu od WordPressa, który jest systemem CMS opartym głównie na PHP, JavaScript oferuje większą szybkość działania, lepsze wsparcie dla aplikacji mobilnych oraz możliwość budowania złożonych aplikacji webowych.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest CMS i jak się go używa?</strong>
+                    <p>CMS (System Zarządzania Treścią) to narzędzie, które pozwala łatwo zarządzać zawartością strony internetowej, taką jak teksty, obrazy czy produkty w sklepie. Przykłady CMS-ów to Sanity czy WordPress. Użytkownik nie musi mieć wiedzy programistycznej, aby aktualizować treści – wystarczy zalogować się do intuicyjnego panelu administracyjnego.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy zarządzanie stroną jest skomplikowane?</strong>
+                    <p>Nie, nasze strony są wyposażone w intuicyjny system CMS, który umożliwia łatwą edycję treści. Dodatkowo oferujemy szkolenie, które zapewnia pełne przygotowanie do samodzielnego zarządzania stroną.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy można ustalić dodatkowe funkcje strony/aplikacji?</strong>
+                    <p>Tak, oczywiście! Nasze studio jest otwarte na dopasowanie projektu do Twoich potrzeb. Jeśli masz pomysł na dodatkowe funkcje, zapraszamy do kontaktu. Wspólnie zaprojektujemy rozwiązanie, które w pełni odpowie na Twoje oczekiwania.</p>
+                </li>
+            
+                <li>
+                    <strong>Ile wynosi gwarancja działania strony?</strong>
+                    <p>Oferujemy gwarancję działania strony na 12 miesięcy. Dodatkowo zapewniamy podstawową opiekę serwisową przez 3 miesiące, którą można rozszerzyć do pełnych 12 miesięcy. Dzięki temu masz pewność, że Twoja strona będzie działała bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Co obejmuje opieka serwisowa?</strong>
+                    <p>Opieka serwisowa obejmuje: usuwanie błędów w działaniu strony, aktualizacje systemu i bezpieczeństwa, drobne zmiany w treści i układzie strony, oraz stałe wsparcie techniczne i doradztwo. Dzięki naszej opiece możesz skupić się na rozwijaniu biznesu, a my zadbamy o sprawne działanie Twojej strony.</p>
+                </li>
+            
+                <li>
+                    <strong>Mam własną domenę i hosting – czy mogę z nich skorzystać?</strong>
+                    <p>Tak. Zrealizowany projekt połączymy pod Państwa domenę i przeniesiemy na wskazany przez Państwa hosting. Wszystko odbywa się sprawnie i bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy układ strony może być dostosowany do moich indywidualnych potrzeb?</strong>
+                    <p>Tak, projektujemy rozwiązania w pełni zgodne z indywidualnymi wymaganiami. Nie korzystamy z gotowych szablonów, co gwarantuje pełną unikalność i brak ograniczeń funkcjonalnych. Każda strona jest tworzona od podstaw i pozostaje własnością klienta.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy strona będzie kompatybilna z urządzeniami mobilnymi?</strong>
+                    <p>Tak, korzystamy z nowoczesnych bibliotek CSS dla React, tworzymy w pełni responsywne strony, które działają perfekcyjnie na urządzeniach mobilnych, tabletach i komputerach stacjonarnych.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy występują dodatkowe, miesięczne opłaty związane z utrzymaniem strony?</strong>
+                    <p>Nie, dostarczamy gotowe rozwiązanie, które nie generuje dodatkowych kosztów utrzymania. Jeżeli zdecydują się Państwo na dodatkowe usługi, niebędące przedmiotem tej oferty, jak dodatkowe integracje z płatnymi SDK, koszty te będą jasno przedstawione w dodatkowej umowie.</p>
+                </li>
+             <!-- Injecting the FAQ HTML -->
+                    </ol>
+                    </div>
+                <div class=""footer"">
+                    &copy; 2024 Varsa Codes. Wszystkie prawa zastrzeżone.
+                </div>
+            </div>
+        </body>
+        </html>"
+custom-product-2,Strona internetowa - [React + NextJS + Node] Minimalistyczny (14 dni),Strona internetowa,React + NextJS + Node,Minimalistyczny,Brak,14 dni,1999,"Zamawiając produkty cyfrowe w naszym studiu zawsze otrzymujesz gotowy, kompleksowy i skalowany produkt zawierający:
+        - Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.
+        - Podstawowy pakiet wszystkich realizacji obejmuje między innymi: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)
+        - Najlepsza dostępna technologia. Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.
+        - Wybrany styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.
+        - Brak dodatkowych funkcji
+        - Czas realizacji: Rozbudowane projekty realizowane w 14 dni roboczych z dbałością o każdy szczegół.
+
+Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów.
+
+Skontaktuj się z nami w przypadku pytań: 
+        - E-mail: hello@varsa.codes
+        - Więcej informacji i pełna oferta: https://www.varsa.codes/","<!DOCTYPE html>
+        <html lang=""pl"">
+        <head>
+            <meta charset=""UTF-8"">
+            <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+            <title>Strona internetowa - Oferta</title>
+           <style>
+    body {
+        font-family: 'Courier New', monospace; /* Bold, raw font choice */
+        margin: 20px;
+        background: #f4f4f4; /* Light grey background */
+        color: #111; /* Darker, high-contrast text color */
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        border: 4px solid #111; /* Thick, unapologetic border */
+        border-radius: 0; /* Brutalist designs avoid rounded edges */
+        overflow: hidden;
+        box-shadow: none; /* Remove soft shadows */
+        background: #fff; /* Use solid white for container background */
+    }
+    .header {
+        background: #ff5722; /* Bright, bold color for emphasis */
+        color: #fff;
+        padding: 20px; /* Slightly larger padding for bold impact */
+        text-align: left; /* Shift to raw, uneven alignment */
+        border-bottom: 4px solid #111; /* Strong separation line */
+    }
+    .header h1 {
+        margin: 0;
+        font-size: 2.5rem; /* Bold, large headline */
+        text-transform: uppercase; /* Raw, bold typography */
+    }
+    .content {
+        padding: 30px;
+        font-size: 1.1rem; /* Slightly larger font for readability */
+        background: #f4f4f4; /* Consistent light-grey background */
+        color: #111; /* High-contrast text */
+        border-top: 4px solid #111; /* Bold section divider */
+    }
+    .features {
+        margin: 20px 0;
+        padding: 20px;
+        background: #fffb00; /* Bright yellow for emphasis */
+        border-left: 10px solid #111; /* Bold border */
+        font-weight: bold; /* Strong emphasis on text */
+    }
+    .footer {
+        background: #111; /* Dark, strong contrast footer */
+        text-align: center;
+        padding: 20px;
+        font-size: 14px;
+        color: #fff; /* White text for contrast */
+        border-top: 4px solid #ff5722; /* Connect footer to header visually */
+    }
+</style>
+
+        </head>
+        <body>
+            <div class=""container"">
+                <div class=""header"">
+                    <h1>Strona internetowa</h1>
+                </div>
+                <div class=""content"">
+                    <h2>Opis Produktu</h2>
+                    <p>Przedmiotem aukcji jest nowoczesny produkt cyfrowy: Strona internetowa.
+<br></br>    
+Dzięki zaawansowanym rozwiązaniom z zakresu sztucznej inteligencji, nasz zespół dostarcza cyfrowe produkty oparte na technologiach React i Next.js w atrakcyjnych cenach. AI pozwala nam przyspieszyć proces programistyczny, zapewniając klientom innowacyjne i wydajne rozwiązania bez kompromisów jakościowych.
+<br></br>    
+Zrezygnuj z ograniczeń przestarzałych systemów, takich jak WordPress, z jego powolnymi szablonami i wtyczkami. Nasze projekty wyróżniają się nowoczesnym designem, bezpieczeństwem i szybkością działania, które wprowadzają Twoją markę na wyższy poziom.
+<br></br>    
+Technologia, której używają liderzy branży – Facebook, Netflix, Nike – jest teraz dostępna dla Twojej firmy dzięki naszemu zespołowi w Software Studio Varsa Codes. Nie idź na kompromisy – wybierz rozwiązania, które pozwalają się wyróżnić w dynamicznym świecie online.
+
+</p>
+                    <br></br>
+                    <p><strong>Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.</strong></p>
+                    <br></br>
+                    <h2>Wybierając naszą ofertę otrzymasz:</h2>
+                    <ul>
+                        <li>Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.</li>
+                        <li>Styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.</li>
+                        <li>Funkcje domyślne: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)</li>
+                        <li>Dodatki: undefined</li>
+                        <li>Czas realizacji: Rozbudowane projekty realizowane w 14 dni roboczych z dbałością o każdy szczegół.</li>
+                        <li>Cena:<strong> 1999 PLN</strong></li>
+                    </ul>
+
+                    <h2>Proces realiazacji po zakupie</h2>
+
+                    <ul>
+                        <li>1. Skontaktujemy się z Tobą, aby omówić szczegóły projektu.</li>
+                        <li>2. Prześlemy Ci formularz i poprosimy o uzupełnienie danymi które będą potrzebne do stworzenia Twojego produktu.</li>
+                        <li>3. Przystąpimy do pracy i będziemy na bieżąco informować Cię o postępach.</li>
+                        <li>4. Otrzymasz demo produktu, na podstawie którego określisz swoje uwagi i poprawki.</li>
+                        <li>5. Po zmianach, otrzymasz finalny produkt, gotowy do publikacji.</li>
+                    </ul>
+
+                    <h2>O Nas</h2>
+                    <p> Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów. </p>
+                    
+                    <h2>Kontakt</h2>
+                    <p>
+                        Masz pytania? Skontaktuj się z nami: <br>
+                        <strong>E-mail:</strong> hello@varsa.codes <br>
+                        <strong>Strona internetowa:</strong> <a href=""https://www.varsa.codes"">https://www.varsa.codes</a>
+                    </p>
+
+                    <h2>Najczęściej zadawane pytania</h2>
+                    <ol>
+                        
+                <li>
+                    <strong>Czym jest React i NextJS?</strong>
+                    <p>React to nowoczesna biblioteka JavaScript, która pozwala tworzyć dynamiczne i responsywne interfejsy użytkownika. Next.js to framework oparty na React, który oferuje dodatkowe funkcjonalności, takie jak serwerowe renderowanie stron (SSR), generowanie statycznych stron (SSG) oraz wbudowaną optymalizację wydajności i SEO. Dzięki tej kombinacji aplikacje są szybkie, skalowalne i przyjazne użytkownikowi.</p>
+                </li>
+            
+                <li>
+                    <strong>Dlaczego produkty cyfrowe oparte o React i NextJS są lepsze niż Wordpress?</strong>
+                    <p>Produkty oparte na React i Next.js są szybsze, bardziej bezpieczne i elastyczne. W przeciwieństwie do WordPressa, który często wymaga dodatkowych wtyczek, React i Next.js oferują pełną kontrolę nad kodem i lepsze dostosowanie do specyficznych potrzeb. Dodatkowo aplikacje zbudowane na tych technologiach są bardziej przyszłościowe i łatwiejsze do skalowania.</p>
+                </li>
+            
+                <li>
+                    <strong>Która z wymienionych technologii jest nowocześniejsza i bardziej przyszłościowa?</strong>
+                    <p>React i Next.js to jedne z najnowocześniejszych i najbardziej przyszłościowych technologii dostępnych na rynku. Dzięki wsparciu dużej społeczności programistów oraz firm takich jak Meta i Vercel, technologie te stale się rozwijają i oferują nowoczesne rozwiązania, które są zgodne z trendami w branży IT.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest JavaScript i dlaczego ta technologia ma przewagę nad Wordpress?</strong>
+                    <p>JavaScript to język programowania, który jest fundamentem nowoczesnych stron internetowych i aplikacji. Umożliwia dynamiczne i interaktywne funkcje na stronach, takie jak animacje czy zaawansowane formularze. W odróżnieniu od WordPressa, który jest systemem CMS opartym głównie na PHP, JavaScript oferuje większą szybkość działania, lepsze wsparcie dla aplikacji mobilnych oraz możliwość budowania złożonych aplikacji webowych.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest CMS i jak się go używa?</strong>
+                    <p>CMS (System Zarządzania Treścią) to narzędzie, które pozwala łatwo zarządzać zawartością strony internetowej, taką jak teksty, obrazy czy produkty w sklepie. Przykłady CMS-ów to Sanity czy WordPress. Użytkownik nie musi mieć wiedzy programistycznej, aby aktualizować treści – wystarczy zalogować się do intuicyjnego panelu administracyjnego.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy zarządzanie stroną jest skomplikowane?</strong>
+                    <p>Nie, nasze strony są wyposażone w intuicyjny system CMS, który umożliwia łatwą edycję treści. Dodatkowo oferujemy szkolenie, które zapewnia pełne przygotowanie do samodzielnego zarządzania stroną.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy można ustalić dodatkowe funkcje strony/aplikacji?</strong>
+                    <p>Tak, oczywiście! Nasze studio jest otwarte na dopasowanie projektu do Twoich potrzeb. Jeśli masz pomysł na dodatkowe funkcje, zapraszamy do kontaktu. Wspólnie zaprojektujemy rozwiązanie, które w pełni odpowie na Twoje oczekiwania.</p>
+                </li>
+            
+                <li>
+                    <strong>Ile wynosi gwarancja działania strony?</strong>
+                    <p>Oferujemy gwarancję działania strony na 12 miesięcy. Dodatkowo zapewniamy podstawową opiekę serwisową przez 3 miesiące, którą można rozszerzyć do pełnych 12 miesięcy. Dzięki temu masz pewność, że Twoja strona będzie działała bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Co obejmuje opieka serwisowa?</strong>
+                    <p>Opieka serwisowa obejmuje: usuwanie błędów w działaniu strony, aktualizacje systemu i bezpieczeństwa, drobne zmiany w treści i układzie strony, oraz stałe wsparcie techniczne i doradztwo. Dzięki naszej opiece możesz skupić się na rozwijaniu biznesu, a my zadbamy o sprawne działanie Twojej strony.</p>
+                </li>
+            
+                <li>
+                    <strong>Mam własną domenę i hosting – czy mogę z nich skorzystać?</strong>
+                    <p>Tak. Zrealizowany projekt połączymy pod Państwa domenę i przeniesiemy na wskazany przez Państwa hosting. Wszystko odbywa się sprawnie i bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy układ strony może być dostosowany do moich indywidualnych potrzeb?</strong>
+                    <p>Tak, projektujemy rozwiązania w pełni zgodne z indywidualnymi wymaganiami. Nie korzystamy z gotowych szablonów, co gwarantuje pełną unikalność i brak ograniczeń funkcjonalnych. Każda strona jest tworzona od podstaw i pozostaje własnością klienta.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy strona będzie kompatybilna z urządzeniami mobilnymi?</strong>
+                    <p>Tak, korzystamy z nowoczesnych bibliotek CSS dla React, tworzymy w pełni responsywne strony, które działają perfekcyjnie na urządzeniach mobilnych, tabletach i komputerach stacjonarnych.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy występują dodatkowe, miesięczne opłaty związane z utrzymaniem strony?</strong>
+                    <p>Nie, dostarczamy gotowe rozwiązanie, które nie generuje dodatkowych kosztów utrzymania. Jeżeli zdecydują się Państwo na dodatkowe usługi, niebędące przedmiotem tej oferty, jak dodatkowe integracje z płatnymi SDK, koszty te będą jasno przedstawione w dodatkowej umowie.</p>
+                </li>
+             <!-- Injecting the FAQ HTML -->
+                    </ol>
+                    </div>
+                <div class=""footer"">
+                    &copy; 2024 Varsa Codes. Wszystkie prawa zastrzeżone.
+                </div>
+            </div>
+        </body>
+        </html>"
+custom-product-3,Strona internetowa - [React + NextJS + Node] Minimalistyczny (48h (ekspr...,Strona internetowa,React + NextJS + Node,Minimalistyczny,Brak,48h (ekspres),2998,"Zamawiając produkty cyfrowe w naszym studiu zawsze otrzymujesz gotowy, kompleksowy i skalowany produkt zawierający:
+        - Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.
+        - Podstawowy pakiet wszystkich realizacji obejmuje między innymi: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)
+        - Najlepsza dostępna technologia. Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.
+        - Wybrany styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.
+        - Brak dodatkowych funkcji
+        - Czas realizacji: Błyskawiczna realizacja projektu w ciągu 48 godzin – idealne dla tych, którzy potrzebują rozwiązania na już.
+
+Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów.
+
+Skontaktuj się z nami w przypadku pytań: 
+        - E-mail: hello@varsa.codes
+        - Więcej informacji i pełna oferta: https://www.varsa.codes/","<!DOCTYPE html>
+        <html lang=""pl"">
+        <head>
+            <meta charset=""UTF-8"">
+            <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+            <title>Strona internetowa - Oferta</title>
+           <style>
+    body {
+        font-family: 'Courier New', monospace; /* Bold, raw font choice */
+        margin: 20px;
+        background: #f4f4f4; /* Light grey background */
+        color: #111; /* Darker, high-contrast text color */
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        border: 4px solid #111; /* Thick, unapologetic border */
+        border-radius: 0; /* Brutalist designs avoid rounded edges */
+        overflow: hidden;
+        box-shadow: none; /* Remove soft shadows */
+        background: #fff; /* Use solid white for container background */
+    }
+    .header {
+        background: #ff5722; /* Bright, bold color for emphasis */
+        color: #fff;
+        padding: 20px; /* Slightly larger padding for bold impact */
+        text-align: left; /* Shift to raw, uneven alignment */
+        border-bottom: 4px solid #111; /* Strong separation line */
+    }
+    .header h1 {
+        margin: 0;
+        font-size: 2.5rem; /* Bold, large headline */
+        text-transform: uppercase; /* Raw, bold typography */
+    }
+    .content {
+        padding: 30px;
+        font-size: 1.1rem; /* Slightly larger font for readability */
+        background: #f4f4f4; /* Consistent light-grey background */
+        color: #111; /* High-contrast text */
+        border-top: 4px solid #111; /* Bold section divider */
+    }
+    .features {
+        margin: 20px 0;
+        padding: 20px;
+        background: #fffb00; /* Bright yellow for emphasis */
+        border-left: 10px solid #111; /* Bold border */
+        font-weight: bold; /* Strong emphasis on text */
+    }
+    .footer {
+        background: #111; /* Dark, strong contrast footer */
+        text-align: center;
+        padding: 20px;
+        font-size: 14px;
+        color: #fff; /* White text for contrast */
+        border-top: 4px solid #ff5722; /* Connect footer to header visually */
+    }
+</style>
+
+        </head>
+        <body>
+            <div class=""container"">
+                <div class=""header"">
+                    <h1>Strona internetowa</h1>
+                </div>
+                <div class=""content"">
+                    <h2>Opis Produktu</h2>
+                    <p>Przedmiotem aukcji jest nowoczesny produkt cyfrowy: Strona internetowa.
+<br></br>    
+Dzięki zaawansowanym rozwiązaniom z zakresu sztucznej inteligencji, nasz zespół dostarcza cyfrowe produkty oparte na technologiach React i Next.js w atrakcyjnych cenach. AI pozwala nam przyspieszyć proces programistyczny, zapewniając klientom innowacyjne i wydajne rozwiązania bez kompromisów jakościowych.
+<br></br>    
+Zrezygnuj z ograniczeń przestarzałych systemów, takich jak WordPress, z jego powolnymi szablonami i wtyczkami. Nasze projekty wyróżniają się nowoczesnym designem, bezpieczeństwem i szybkością działania, które wprowadzają Twoją markę na wyższy poziom.
+<br></br>    
+Technologia, której używają liderzy branży – Facebook, Netflix, Nike – jest teraz dostępna dla Twojej firmy dzięki naszemu zespołowi w Software Studio Varsa Codes. Nie idź na kompromisy – wybierz rozwiązania, które pozwalają się wyróżnić w dynamicznym świecie online.
+
+</p>
+                    <br></br>
+                    <p><strong>Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.</strong></p>
+                    <br></br>
+                    <h2>Wybierając naszą ofertę otrzymasz:</h2>
+                    <ul>
+                        <li>Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.</li>
+                        <li>Styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.</li>
+                        <li>Funkcje domyślne: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)</li>
+                        <li>Dodatki: undefined</li>
+                        <li>Czas realizacji: Błyskawiczna realizacja projektu w ciągu 48 godzin – idealne dla tych, którzy potrzebują rozwiązania na już.</li>
+                        <li>Cena:<strong> 2998 PLN</strong></li>
+                    </ul>
+
+                    <h2>Proces realiazacji po zakupie</h2>
+
+                    <ul>
+                        <li>1. Skontaktujemy się z Tobą, aby omówić szczegóły projektu.</li>
+                        <li>2. Prześlemy Ci formularz i poprosimy o uzupełnienie danymi które będą potrzebne do stworzenia Twojego produktu.</li>
+                        <li>3. Przystąpimy do pracy i będziemy na bieżąco informować Cię o postępach.</li>
+                        <li>4. Otrzymasz demo produktu, na podstawie którego określisz swoje uwagi i poprawki.</li>
+                        <li>5. Po zmianach, otrzymasz finalny produkt, gotowy do publikacji.</li>
+                    </ul>
+
+                    <h2>O Nas</h2>
+                    <p> Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów. </p>
+                    
+                    <h2>Kontakt</h2>
+                    <p>
+                        Masz pytania? Skontaktuj się z nami: <br>
+                        <strong>E-mail:</strong> hello@varsa.codes <br>
+                        <strong>Strona internetowa:</strong> <a href=""https://www.varsa.codes"">https://www.varsa.codes</a>
+                    </p>
+
+                    <h2>Najczęściej zadawane pytania</h2>
+                    <ol>
+                        
+                <li>
+                    <strong>Czym jest React i NextJS?</strong>
+                    <p>React to nowoczesna biblioteka JavaScript, która pozwala tworzyć dynamiczne i responsywne interfejsy użytkownika. Next.js to framework oparty na React, który oferuje dodatkowe funkcjonalności, takie jak serwerowe renderowanie stron (SSR), generowanie statycznych stron (SSG) oraz wbudowaną optymalizację wydajności i SEO. Dzięki tej kombinacji aplikacje są szybkie, skalowalne i przyjazne użytkownikowi.</p>
+                </li>
+            
+                <li>
+                    <strong>Dlaczego produkty cyfrowe oparte o React i NextJS są lepsze niż Wordpress?</strong>
+                    <p>Produkty oparte na React i Next.js są szybsze, bardziej bezpieczne i elastyczne. W przeciwieństwie do WordPressa, który często wymaga dodatkowych wtyczek, React i Next.js oferują pełną kontrolę nad kodem i lepsze dostosowanie do specyficznych potrzeb. Dodatkowo aplikacje zbudowane na tych technologiach są bardziej przyszłościowe i łatwiejsze do skalowania.</p>
+                </li>
+            
+                <li>
+                    <strong>Która z wymienionych technologii jest nowocześniejsza i bardziej przyszłościowa?</strong>
+                    <p>React i Next.js to jedne z najnowocześniejszych i najbardziej przyszłościowych technologii dostępnych na rynku. Dzięki wsparciu dużej społeczności programistów oraz firm takich jak Meta i Vercel, technologie te stale się rozwijają i oferują nowoczesne rozwiązania, które są zgodne z trendami w branży IT.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest JavaScript i dlaczego ta technologia ma przewagę nad Wordpress?</strong>
+                    <p>JavaScript to język programowania, który jest fundamentem nowoczesnych stron internetowych i aplikacji. Umożliwia dynamiczne i interaktywne funkcje na stronach, takie jak animacje czy zaawansowane formularze. W odróżnieniu od WordPressa, który jest systemem CMS opartym głównie na PHP, JavaScript oferuje większą szybkość działania, lepsze wsparcie dla aplikacji mobilnych oraz możliwość budowania złożonych aplikacji webowych.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest CMS i jak się go używa?</strong>
+                    <p>CMS (System Zarządzania Treścią) to narzędzie, które pozwala łatwo zarządzać zawartością strony internetowej, taką jak teksty, obrazy czy produkty w sklepie. Przykłady CMS-ów to Sanity czy WordPress. Użytkownik nie musi mieć wiedzy programistycznej, aby aktualizować treści – wystarczy zalogować się do intuicyjnego panelu administracyjnego.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy zarządzanie stroną jest skomplikowane?</strong>
+                    <p>Nie, nasze strony są wyposażone w intuicyjny system CMS, który umożliwia łatwą edycję treści. Dodatkowo oferujemy szkolenie, które zapewnia pełne przygotowanie do samodzielnego zarządzania stroną.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy można ustalić dodatkowe funkcje strony/aplikacji?</strong>
+                    <p>Tak, oczywiście! Nasze studio jest otwarte na dopasowanie projektu do Twoich potrzeb. Jeśli masz pomysł na dodatkowe funkcje, zapraszamy do kontaktu. Wspólnie zaprojektujemy rozwiązanie, które w pełni odpowie na Twoje oczekiwania.</p>
+                </li>
+            
+                <li>
+                    <strong>Ile wynosi gwarancja działania strony?</strong>
+                    <p>Oferujemy gwarancję działania strony na 12 miesięcy. Dodatkowo zapewniamy podstawową opiekę serwisową przez 3 miesiące, którą można rozszerzyć do pełnych 12 miesięcy. Dzięki temu masz pewność, że Twoja strona będzie działała bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Co obejmuje opieka serwisowa?</strong>
+                    <p>Opieka serwisowa obejmuje: usuwanie błędów w działaniu strony, aktualizacje systemu i bezpieczeństwa, drobne zmiany w treści i układzie strony, oraz stałe wsparcie techniczne i doradztwo. Dzięki naszej opiece możesz skupić się na rozwijaniu biznesu, a my zadbamy o sprawne działanie Twojej strony.</p>
+                </li>
+            
+                <li>
+                    <strong>Mam własną domenę i hosting – czy mogę z nich skorzystać?</strong>
+                    <p>Tak. Zrealizowany projekt połączymy pod Państwa domenę i przeniesiemy na wskazany przez Państwa hosting. Wszystko odbywa się sprawnie i bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy układ strony może być dostosowany do moich indywidualnych potrzeb?</strong>
+                    <p>Tak, projektujemy rozwiązania w pełni zgodne z indywidualnymi wymaganiami. Nie korzystamy z gotowych szablonów, co gwarantuje pełną unikalność i brak ograniczeń funkcjonalnych. Każda strona jest tworzona od podstaw i pozostaje własnością klienta.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy strona będzie kompatybilna z urządzeniami mobilnymi?</strong>
+                    <p>Tak, korzystamy z nowoczesnych bibliotek CSS dla React, tworzymy w pełni responsywne strony, które działają perfekcyjnie na urządzeniach mobilnych, tabletach i komputerach stacjonarnych.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy występują dodatkowe, miesięczne opłaty związane z utrzymaniem strony?</strong>
+                    <p>Nie, dostarczamy gotowe rozwiązanie, które nie generuje dodatkowych kosztów utrzymania. Jeżeli zdecydują się Państwo na dodatkowe usługi, niebędące przedmiotem tej oferty, jak dodatkowe integracje z płatnymi SDK, koszty te będą jasno przedstawione w dodatkowej umowie.</p>
+                </li>
+             <!-- Injecting the FAQ HTML -->
+                    </ol>
+                    </div>
+                <div class=""footer"">
+                    &copy; 2024 Varsa Codes. Wszystkie prawa zastrzeżone.
+                </div>
+            </div>
+        </body>
+        </html>"
+custom-product-4,Strona internetowa - [React + NextJS + Node] Minimalistyczny (5 dni (eks...,Strona internetowa,React + NextJS + Node,Minimalistyczny,Brak,5 dni (ekspres),2998,"Zamawiając produkty cyfrowe w naszym studiu zawsze otrzymujesz gotowy, kompleksowy i skalowany produkt zawierający:
+        - Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.
+        - Podstawowy pakiet wszystkich realizacji obejmuje między innymi: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)
+        - Najlepsza dostępna technologia. Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.
+        - Wybrany styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.
+        - Brak dodatkowych funkcji
+        - Czas realizacji: Przyspieszony czas realizacji wynoszący 5 dni roboczych – szybkie i profesjonalne wykonanie.
+
+Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów.
+
+Skontaktuj się z nami w przypadku pytań: 
+        - E-mail: hello@varsa.codes
+        - Więcej informacji i pełna oferta: https://www.varsa.codes/","<!DOCTYPE html>
+        <html lang=""pl"">
+        <head>
+            <meta charset=""UTF-8"">
+            <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+            <title>Strona internetowa - Oferta</title>
+           <style>
+    body {
+        font-family: 'Courier New', monospace; /* Bold, raw font choice */
+        margin: 20px;
+        background: #f4f4f4; /* Light grey background */
+        color: #111; /* Darker, high-contrast text color */
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        border: 4px solid #111; /* Thick, unapologetic border */
+        border-radius: 0; /* Brutalist designs avoid rounded edges */
+        overflow: hidden;
+        box-shadow: none; /* Remove soft shadows */
+        background: #fff; /* Use solid white for container background */
+    }
+    .header {
+        background: #ff5722; /* Bright, bold color for emphasis */
+        color: #fff;
+        padding: 20px; /* Slightly larger padding for bold impact */
+        text-align: left; /* Shift to raw, uneven alignment */
+        border-bottom: 4px solid #111; /* Strong separation line */
+    }
+    .header h1 {
+        margin: 0;
+        font-size: 2.5rem; /* Bold, large headline */
+        text-transform: uppercase; /* Raw, bold typography */
+    }
+    .content {
+        padding: 30px;
+        font-size: 1.1rem; /* Slightly larger font for readability */
+        background: #f4f4f4; /* Consistent light-grey background */
+        color: #111; /* High-contrast text */
+        border-top: 4px solid #111; /* Bold section divider */
+    }
+    .features {
+        margin: 20px 0;
+        padding: 20px;
+        background: #fffb00; /* Bright yellow for emphasis */
+        border-left: 10px solid #111; /* Bold border */
+        font-weight: bold; /* Strong emphasis on text */
+    }
+    .footer {
+        background: #111; /* Dark, strong contrast footer */
+        text-align: center;
+        padding: 20px;
+        font-size: 14px;
+        color: #fff; /* White text for contrast */
+        border-top: 4px solid #ff5722; /* Connect footer to header visually */
+    }
+</style>
+
+        </head>
+        <body>
+            <div class=""container"">
+                <div class=""header"">
+                    <h1>Strona internetowa</h1>
+                </div>
+                <div class=""content"">
+                    <h2>Opis Produktu</h2>
+                    <p>Przedmiotem aukcji jest nowoczesny produkt cyfrowy: Strona internetowa.
+<br></br>    
+Dzięki zaawansowanym rozwiązaniom z zakresu sztucznej inteligencji, nasz zespół dostarcza cyfrowe produkty oparte na technologiach React i Next.js w atrakcyjnych cenach. AI pozwala nam przyspieszyć proces programistyczny, zapewniając klientom innowacyjne i wydajne rozwiązania bez kompromisów jakościowych.
+<br></br>    
+Zrezygnuj z ograniczeń przestarzałych systemów, takich jak WordPress, z jego powolnymi szablonami i wtyczkami. Nasze projekty wyróżniają się nowoczesnym designem, bezpieczeństwem i szybkością działania, które wprowadzają Twoją markę na wyższy poziom.
+<br></br>    
+Technologia, której używają liderzy branży – Facebook, Netflix, Nike – jest teraz dostępna dla Twojej firmy dzięki naszemu zespołowi w Software Studio Varsa Codes. Nie idź na kompromisy – wybierz rozwiązania, które pozwalają się wyróżnić w dynamicznym świecie online.
+
+</p>
+                    <br></br>
+                    <p><strong>Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.</strong></p>
+                    <br></br>
+                    <h2>Wybierając naszą ofertę otrzymasz:</h2>
+                    <ul>
+                        <li>Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.</li>
+                        <li>Styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.</li>
+                        <li>Funkcje domyślne: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)</li>
+                        <li>Dodatki: undefined</li>
+                        <li>Czas realizacji: Przyspieszony czas realizacji wynoszący 5 dni roboczych – szybkie i profesjonalne wykonanie.</li>
+                        <li>Cena:<strong> 2998 PLN</strong></li>
+                    </ul>
+
+                    <h2>Proces realiazacji po zakupie</h2>
+
+                    <ul>
+                        <li>1. Skontaktujemy się z Tobą, aby omówić szczegóły projektu.</li>
+                        <li>2. Prześlemy Ci formularz i poprosimy o uzupełnienie danymi które będą potrzebne do stworzenia Twojego produktu.</li>
+                        <li>3. Przystąpimy do pracy i będziemy na bieżąco informować Cię o postępach.</li>
+                        <li>4. Otrzymasz demo produktu, na podstawie którego określisz swoje uwagi i poprawki.</li>
+                        <li>5. Po zmianach, otrzymasz finalny produkt, gotowy do publikacji.</li>
+                    </ul>
+
+                    <h2>O Nas</h2>
+                    <p> Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów. </p>
+                    
+                    <h2>Kontakt</h2>
+                    <p>
+                        Masz pytania? Skontaktuj się z nami: <br>
+                        <strong>E-mail:</strong> hello@varsa.codes <br>
+                        <strong>Strona internetowa:</strong> <a href=""https://www.varsa.codes"">https://www.varsa.codes</a>
+                    </p>
+
+                    <h2>Najczęściej zadawane pytania</h2>
+                    <ol>
+                        
+                <li>
+                    <strong>Czym jest React i NextJS?</strong>
+                    <p>React to nowoczesna biblioteka JavaScript, która pozwala tworzyć dynamiczne i responsywne interfejsy użytkownika. Next.js to framework oparty na React, który oferuje dodatkowe funkcjonalności, takie jak serwerowe renderowanie stron (SSR), generowanie statycznych stron (SSG) oraz wbudowaną optymalizację wydajności i SEO. Dzięki tej kombinacji aplikacje są szybkie, skalowalne i przyjazne użytkownikowi.</p>
+                </li>
+            
+                <li>
+                    <strong>Dlaczego produkty cyfrowe oparte o React i NextJS są lepsze niż Wordpress?</strong>
+                    <p>Produkty oparte na React i Next.js są szybsze, bardziej bezpieczne i elastyczne. W przeciwieństwie do WordPressa, który często wymaga dodatkowych wtyczek, React i Next.js oferują pełną kontrolę nad kodem i lepsze dostosowanie do specyficznych potrzeb. Dodatkowo aplikacje zbudowane na tych technologiach są bardziej przyszłościowe i łatwiejsze do skalowania.</p>
+                </li>
+            
+                <li>
+                    <strong>Która z wymienionych technologii jest nowocześniejsza i bardziej przyszłościowa?</strong>
+                    <p>React i Next.js to jedne z najnowocześniejszych i najbardziej przyszłościowych technologii dostępnych na rynku. Dzięki wsparciu dużej społeczności programistów oraz firm takich jak Meta i Vercel, technologie te stale się rozwijają i oferują nowoczesne rozwiązania, które są zgodne z trendami w branży IT.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest JavaScript i dlaczego ta technologia ma przewagę nad Wordpress?</strong>
+                    <p>JavaScript to język programowania, który jest fundamentem nowoczesnych stron internetowych i aplikacji. Umożliwia dynamiczne i interaktywne funkcje na stronach, takie jak animacje czy zaawansowane formularze. W odróżnieniu od WordPressa, który jest systemem CMS opartym głównie na PHP, JavaScript oferuje większą szybkość działania, lepsze wsparcie dla aplikacji mobilnych oraz możliwość budowania złożonych aplikacji webowych.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest CMS i jak się go używa?</strong>
+                    <p>CMS (System Zarządzania Treścią) to narzędzie, które pozwala łatwo zarządzać zawartością strony internetowej, taką jak teksty, obrazy czy produkty w sklepie. Przykłady CMS-ów to Sanity czy WordPress. Użytkownik nie musi mieć wiedzy programistycznej, aby aktualizować treści – wystarczy zalogować się do intuicyjnego panelu administracyjnego.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy zarządzanie stroną jest skomplikowane?</strong>
+                    <p>Nie, nasze strony są wyposażone w intuicyjny system CMS, który umożliwia łatwą edycję treści. Dodatkowo oferujemy szkolenie, które zapewnia pełne przygotowanie do samodzielnego zarządzania stroną.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy można ustalić dodatkowe funkcje strony/aplikacji?</strong>
+                    <p>Tak, oczywiście! Nasze studio jest otwarte na dopasowanie projektu do Twoich potrzeb. Jeśli masz pomysł na dodatkowe funkcje, zapraszamy do kontaktu. Wspólnie zaprojektujemy rozwiązanie, które w pełni odpowie na Twoje oczekiwania.</p>
+                </li>
+            
+                <li>
+                    <strong>Ile wynosi gwarancja działania strony?</strong>
+                    <p>Oferujemy gwarancję działania strony na 12 miesięcy. Dodatkowo zapewniamy podstawową opiekę serwisową przez 3 miesiące, którą można rozszerzyć do pełnych 12 miesięcy. Dzięki temu masz pewność, że Twoja strona będzie działała bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Co obejmuje opieka serwisowa?</strong>
+                    <p>Opieka serwisowa obejmuje: usuwanie błędów w działaniu strony, aktualizacje systemu i bezpieczeństwa, drobne zmiany w treści i układzie strony, oraz stałe wsparcie techniczne i doradztwo. Dzięki naszej opiece możesz skupić się na rozwijaniu biznesu, a my zadbamy o sprawne działanie Twojej strony.</p>
+                </li>
+            
+                <li>
+                    <strong>Mam własną domenę i hosting – czy mogę z nich skorzystać?</strong>
+                    <p>Tak. Zrealizowany projekt połączymy pod Państwa domenę i przeniesiemy na wskazany przez Państwa hosting. Wszystko odbywa się sprawnie i bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy układ strony może być dostosowany do moich indywidualnych potrzeb?</strong>
+                    <p>Tak, projektujemy rozwiązania w pełni zgodne z indywidualnymi wymaganiami. Nie korzystamy z gotowych szablonów, co gwarantuje pełną unikalność i brak ograniczeń funkcjonalnych. Każda strona jest tworzona od podstaw i pozostaje własnością klienta.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy strona będzie kompatybilna z urządzeniami mobilnymi?</strong>
+                    <p>Tak, korzystamy z nowoczesnych bibliotek CSS dla React, tworzymy w pełni responsywne strony, które działają perfekcyjnie na urządzeniach mobilnych, tabletach i komputerach stacjonarnych.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy występują dodatkowe, miesięczne opłaty związane z utrzymaniem strony?</strong>
+                    <p>Nie, dostarczamy gotowe rozwiązanie, które nie generuje dodatkowych kosztów utrzymania. Jeżeli zdecydują się Państwo na dodatkowe usługi, niebędące przedmiotem tej oferty, jak dodatkowe integracje z płatnymi SDK, koszty te będą jasno przedstawione w dodatkowej umowie.</p>
+                </li>
+             <!-- Injecting the FAQ HTML -->
+                    </ol>
+                    </div>
+                <div class=""footer"">
+                    &copy; 2024 Varsa Codes. Wszystkie prawa zastrzeżone.
+                </div>
+            </div>
+        </body>
+        </html>"
+custom-product-5,Strona internetowa - [React + NextJS + Node] Minimalistyczny (7 dni) CMS,Strona internetowa,React + NextJS + Node,Minimalistyczny,CMS,7 dni,2498,"Zamawiając produkty cyfrowe w naszym studiu zawsze otrzymujesz gotowy, kompleksowy i skalowany produkt zawierający:
+        - Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.
+        - Podstawowy pakiet wszystkich realizacji obejmuje między innymi: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)
+        - Najlepsza dostępna technologia. Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.
+        - Wybrany styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.
+        - Łatwo zarządzaj swoją stroną dzięki intuicyjnemu systemowi zarządzania treścią (CMS Sanity). Edytuj treści i aktualizuj informacje w kilka kliknięć!
+        - Czas realizacji: Standardowy czas realizacji wynoszący 7 dni roboczych – solidna praca w przemyślanym tempie.
+
+Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów.
+
+Skontaktuj się z nami w przypadku pytań: 
+        - E-mail: hello@varsa.codes
+        - Więcej informacji i pełna oferta: https://www.varsa.codes/","<!DOCTYPE html>
+        <html lang=""pl"">
+        <head>
+            <meta charset=""UTF-8"">
+            <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+            <title>Strona internetowa - Oferta</title>
+           <style>
+    body {
+        font-family: 'Courier New', monospace; /* Bold, raw font choice */
+        margin: 20px;
+        background: #f4f4f4; /* Light grey background */
+        color: #111; /* Darker, high-contrast text color */
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        border: 4px solid #111; /* Thick, unapologetic border */
+        border-radius: 0; /* Brutalist designs avoid rounded edges */
+        overflow: hidden;
+        box-shadow: none; /* Remove soft shadows */
+        background: #fff; /* Use solid white for container background */
+    }
+    .header {
+        background: #ff5722; /* Bright, bold color for emphasis */
+        color: #fff;
+        padding: 20px; /* Slightly larger padding for bold impact */
+        text-align: left; /* Shift to raw, uneven alignment */
+        border-bottom: 4px solid #111; /* Strong separation line */
+    }
+    .header h1 {
+        margin: 0;
+        font-size: 2.5rem; /* Bold, large headline */
+        text-transform: uppercase; /* Raw, bold typography */
+    }
+    .content {
+        padding: 30px;
+        font-size: 1.1rem; /* Slightly larger font for readability */
+        background: #f4f4f4; /* Consistent light-grey background */
+        color: #111; /* High-contrast text */
+        border-top: 4px solid #111; /* Bold section divider */
+    }
+    .features {
+        margin: 20px 0;
+        padding: 20px;
+        background: #fffb00; /* Bright yellow for emphasis */
+        border-left: 10px solid #111; /* Bold border */
+        font-weight: bold; /* Strong emphasis on text */
+    }
+    .footer {
+        background: #111; /* Dark, strong contrast footer */
+        text-align: center;
+        padding: 20px;
+        font-size: 14px;
+        color: #fff; /* White text for contrast */
+        border-top: 4px solid #ff5722; /* Connect footer to header visually */
+    }
+</style>
+
+        </head>
+        <body>
+            <div class=""container"">
+                <div class=""header"">
+                    <h1>Strona internetowa</h1>
+                </div>
+                <div class=""content"">
+                    <h2>Opis Produktu</h2>
+                    <p>Przedmiotem aukcji jest nowoczesny produkt cyfrowy: Strona internetowa.
+<br></br>    
+Dzięki zaawansowanym rozwiązaniom z zakresu sztucznej inteligencji, nasz zespół dostarcza cyfrowe produkty oparte na technologiach React i Next.js w atrakcyjnych cenach. AI pozwala nam przyspieszyć proces programistyczny, zapewniając klientom innowacyjne i wydajne rozwiązania bez kompromisów jakościowych.
+<br></br>    
+Zrezygnuj z ograniczeń przestarzałych systemów, takich jak WordPress, z jego powolnymi szablonami i wtyczkami. Nasze projekty wyróżniają się nowoczesnym designem, bezpieczeństwem i szybkością działania, które wprowadzają Twoją markę na wyższy poziom.
+<br></br>    
+Technologia, której używają liderzy branży – Facebook, Netflix, Nike – jest teraz dostępna dla Twojej firmy dzięki naszemu zespołowi w Software Studio Varsa Codes. Nie idź na kompromisy – wybierz rozwiązania, które pozwalają się wyróżnić w dynamicznym świecie online.
+
+</p>
+                    <br></br>
+                    <p><strong>Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.</strong></p>
+                    <br></br>
+                    <h2>Wybierając naszą ofertę otrzymasz:</h2>
+                    <ul>
+                        <li>Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.</li>
+                        <li>Styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.</li>
+                        <li>Funkcje domyślne: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)</li>
+                        <li>Dodatki: undefined</li>
+                        <li>Czas realizacji: Standardowy czas realizacji wynoszący 7 dni roboczych – solidna praca w przemyślanym tempie.</li>
+                        <li>Cena:<strong> 2498 PLN</strong></li>
+                    </ul>
+
+                    <h2>Proces realiazacji po zakupie</h2>
+
+                    <ul>
+                        <li>1. Skontaktujemy się z Tobą, aby omówić szczegóły projektu.</li>
+                        <li>2. Prześlemy Ci formularz i poprosimy o uzupełnienie danymi które będą potrzebne do stworzenia Twojego produktu.</li>
+                        <li>3. Przystąpimy do pracy i będziemy na bieżąco informować Cię o postępach.</li>
+                        <li>4. Otrzymasz demo produktu, na podstawie którego określisz swoje uwagi i poprawki.</li>
+                        <li>5. Po zmianach, otrzymasz finalny produkt, gotowy do publikacji.</li>
+                    </ul>
+
+                    <h2>O Nas</h2>
+                    <p> Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów. </p>
+                    
+                    <h2>Kontakt</h2>
+                    <p>
+                        Masz pytania? Skontaktuj się z nami: <br>
+                        <strong>E-mail:</strong> hello@varsa.codes <br>
+                        <strong>Strona internetowa:</strong> <a href=""https://www.varsa.codes"">https://www.varsa.codes</a>
+                    </p>
+
+                    <h2>Najczęściej zadawane pytania</h2>
+                    <ol>
+                        
+                <li>
+                    <strong>Czym jest React i NextJS?</strong>
+                    <p>React to nowoczesna biblioteka JavaScript, która pozwala tworzyć dynamiczne i responsywne interfejsy użytkownika. Next.js to framework oparty na React, który oferuje dodatkowe funkcjonalności, takie jak serwerowe renderowanie stron (SSR), generowanie statycznych stron (SSG) oraz wbudowaną optymalizację wydajności i SEO. Dzięki tej kombinacji aplikacje są szybkie, skalowalne i przyjazne użytkownikowi.</p>
+                </li>
+            
+                <li>
+                    <strong>Dlaczego produkty cyfrowe oparte o React i NextJS są lepsze niż Wordpress?</strong>
+                    <p>Produkty oparte na React i Next.js są szybsze, bardziej bezpieczne i elastyczne. W przeciwieństwie do WordPressa, który często wymaga dodatkowych wtyczek, React i Next.js oferują pełną kontrolę nad kodem i lepsze dostosowanie do specyficznych potrzeb. Dodatkowo aplikacje zbudowane na tych technologiach są bardziej przyszłościowe i łatwiejsze do skalowania.</p>
+                </li>
+            
+                <li>
+                    <strong>Która z wymienionych technologii jest nowocześniejsza i bardziej przyszłościowa?</strong>
+                    <p>React i Next.js to jedne z najnowocześniejszych i najbardziej przyszłościowych technologii dostępnych na rynku. Dzięki wsparciu dużej społeczności programistów oraz firm takich jak Meta i Vercel, technologie te stale się rozwijają i oferują nowoczesne rozwiązania, które są zgodne z trendami w branży IT.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest JavaScript i dlaczego ta technologia ma przewagę nad Wordpress?</strong>
+                    <p>JavaScript to język programowania, który jest fundamentem nowoczesnych stron internetowych i aplikacji. Umożliwia dynamiczne i interaktywne funkcje na stronach, takie jak animacje czy zaawansowane formularze. W odróżnieniu od WordPressa, który jest systemem CMS opartym głównie na PHP, JavaScript oferuje większą szybkość działania, lepsze wsparcie dla aplikacji mobilnych oraz możliwość budowania złożonych aplikacji webowych.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest CMS i jak się go używa?</strong>
+                    <p>CMS (System Zarządzania Treścią) to narzędzie, które pozwala łatwo zarządzać zawartością strony internetowej, taką jak teksty, obrazy czy produkty w sklepie. Przykłady CMS-ów to Sanity czy WordPress. Użytkownik nie musi mieć wiedzy programistycznej, aby aktualizować treści – wystarczy zalogować się do intuicyjnego panelu administracyjnego.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy zarządzanie stroną jest skomplikowane?</strong>
+                    <p>Nie, nasze strony są wyposażone w intuicyjny system CMS, który umożliwia łatwą edycję treści. Dodatkowo oferujemy szkolenie, które zapewnia pełne przygotowanie do samodzielnego zarządzania stroną.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy można ustalić dodatkowe funkcje strony/aplikacji?</strong>
+                    <p>Tak, oczywiście! Nasze studio jest otwarte na dopasowanie projektu do Twoich potrzeb. Jeśli masz pomysł na dodatkowe funkcje, zapraszamy do kontaktu. Wspólnie zaprojektujemy rozwiązanie, które w pełni odpowie na Twoje oczekiwania.</p>
+                </li>
+            
+                <li>
+                    <strong>Ile wynosi gwarancja działania strony?</strong>
+                    <p>Oferujemy gwarancję działania strony na 12 miesięcy. Dodatkowo zapewniamy podstawową opiekę serwisową przez 3 miesiące, którą można rozszerzyć do pełnych 12 miesięcy. Dzięki temu masz pewność, że Twoja strona będzie działała bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Co obejmuje opieka serwisowa?</strong>
+                    <p>Opieka serwisowa obejmuje: usuwanie błędów w działaniu strony, aktualizacje systemu i bezpieczeństwa, drobne zmiany w treści i układzie strony, oraz stałe wsparcie techniczne i doradztwo. Dzięki naszej opiece możesz skupić się na rozwijaniu biznesu, a my zadbamy o sprawne działanie Twojej strony.</p>
+                </li>
+            
+                <li>
+                    <strong>Mam własną domenę i hosting – czy mogę z nich skorzystać?</strong>
+                    <p>Tak. Zrealizowany projekt połączymy pod Państwa domenę i przeniesiemy na wskazany przez Państwa hosting. Wszystko odbywa się sprawnie i bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy układ strony może być dostosowany do moich indywidualnych potrzeb?</strong>
+                    <p>Tak, projektujemy rozwiązania w pełni zgodne z indywidualnymi wymaganiami. Nie korzystamy z gotowych szablonów, co gwarantuje pełną unikalność i brak ograniczeń funkcjonalnych. Każda strona jest tworzona od podstaw i pozostaje własnością klienta.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy strona będzie kompatybilna z urządzeniami mobilnymi?</strong>
+                    <p>Tak, korzystamy z nowoczesnych bibliotek CSS dla React, tworzymy w pełni responsywne strony, które działają perfekcyjnie na urządzeniach mobilnych, tabletach i komputerach stacjonarnych.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy występują dodatkowe, miesięczne opłaty związane z utrzymaniem strony?</strong>
+                    <p>Nie, dostarczamy gotowe rozwiązanie, które nie generuje dodatkowych kosztów utrzymania. Jeżeli zdecydują się Państwo na dodatkowe usługi, niebędące przedmiotem tej oferty, jak dodatkowe integracje z płatnymi SDK, koszty te będą jasno przedstawione w dodatkowej umowie.</p>
+                </li>
+             <!-- Injecting the FAQ HTML -->
+                    </ol>
+                    </div>
+                <div class=""footer"">
+                    &copy; 2024 Varsa Codes. Wszystkie prawa zastrzeżone.
+                </div>
+            </div>
+        </body>
+        </html>"
+custom-product-6,Strona internetowa - [React + NextJS + Node] Minimalistyczny (14 dni) CMS,Strona internetowa,React + NextJS + Node,Minimalistyczny,CMS,14 dni,2498,"Zamawiając produkty cyfrowe w naszym studiu zawsze otrzymujesz gotowy, kompleksowy i skalowany produkt zawierający:
+        - Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.
+        - Podstawowy pakiet wszystkich realizacji obejmuje między innymi: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)
+        - Najlepsza dostępna technologia. Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.
+        - Wybrany styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.
+        - Łatwo zarządzaj swoją stroną dzięki intuicyjnemu systemowi zarządzania treścią (CMS Sanity). Edytuj treści i aktualizuj informacje w kilka kliknięć!
+        - Czas realizacji: Rozbudowane projekty realizowane w 14 dni roboczych z dbałością o każdy szczegół.
+
+Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów.
+
+Skontaktuj się z nami w przypadku pytań: 
+        - E-mail: hello@varsa.codes
+        - Więcej informacji i pełna oferta: https://www.varsa.codes/","<!DOCTYPE html>
+        <html lang=""pl"">
+        <head>
+            <meta charset=""UTF-8"">
+            <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+            <title>Strona internetowa - Oferta</title>
+           <style>
+    body {
+        font-family: 'Courier New', monospace; /* Bold, raw font choice */
+        margin: 20px;
+        background: #f4f4f4; /* Light grey background */
+        color: #111; /* Darker, high-contrast text color */
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        border: 4px solid #111; /* Thick, unapologetic border */
+        border-radius: 0; /* Brutalist designs avoid rounded edges */
+        overflow: hidden;
+        box-shadow: none; /* Remove soft shadows */
+        background: #fff; /* Use solid white for container background */
+    }
+    .header {
+        background: #ff5722; /* Bright, bold color for emphasis */
+        color: #fff;
+        padding: 20px; /* Slightly larger padding for bold impact */
+        text-align: left; /* Shift to raw, uneven alignment */
+        border-bottom: 4px solid #111; /* Strong separation line */
+    }
+    .header h1 {
+        margin: 0;
+        font-size: 2.5rem; /* Bold, large headline */
+        text-transform: uppercase; /* Raw, bold typography */
+    }
+    .content {
+        padding: 30px;
+        font-size: 1.1rem; /* Slightly larger font for readability */
+        background: #f4f4f4; /* Consistent light-grey background */
+        color: #111; /* High-contrast text */
+        border-top: 4px solid #111; /* Bold section divider */
+    }
+    .features {
+        margin: 20px 0;
+        padding: 20px;
+        background: #fffb00; /* Bright yellow for emphasis */
+        border-left: 10px solid #111; /* Bold border */
+        font-weight: bold; /* Strong emphasis on text */
+    }
+    .footer {
+        background: #111; /* Dark, strong contrast footer */
+        text-align: center;
+        padding: 20px;
+        font-size: 14px;
+        color: #fff; /* White text for contrast */
+        border-top: 4px solid #ff5722; /* Connect footer to header visually */
+    }
+</style>
+
+        </head>
+        <body>
+            <div class=""container"">
+                <div class=""header"">
+                    <h1>Strona internetowa</h1>
+                </div>
+                <div class=""content"">
+                    <h2>Opis Produktu</h2>
+                    <p>Przedmiotem aukcji jest nowoczesny produkt cyfrowy: Strona internetowa.
+<br></br>    
+Dzięki zaawansowanym rozwiązaniom z zakresu sztucznej inteligencji, nasz zespół dostarcza cyfrowe produkty oparte na technologiach React i Next.js w atrakcyjnych cenach. AI pozwala nam przyspieszyć proces programistyczny, zapewniając klientom innowacyjne i wydajne rozwiązania bez kompromisów jakościowych.
+<br></br>    
+Zrezygnuj z ograniczeń przestarzałych systemów, takich jak WordPress, z jego powolnymi szablonami i wtyczkami. Nasze projekty wyróżniają się nowoczesnym designem, bezpieczeństwem i szybkością działania, które wprowadzają Twoją markę na wyższy poziom.
+<br></br>    
+Technologia, której używają liderzy branży – Facebook, Netflix, Nike – jest teraz dostępna dla Twojej firmy dzięki naszemu zespołowi w Software Studio Varsa Codes. Nie idź na kompromisy – wybierz rozwiązania, które pozwalają się wyróżnić w dynamicznym świecie online.
+
+</p>
+                    <br></br>
+                    <p><strong>Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.</strong></p>
+                    <br></br>
+                    <h2>Wybierając naszą ofertę otrzymasz:</h2>
+                    <ul>
+                        <li>Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.</li>
+                        <li>Styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.</li>
+                        <li>Funkcje domyślne: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)</li>
+                        <li>Dodatki: undefined</li>
+                        <li>Czas realizacji: Rozbudowane projekty realizowane w 14 dni roboczych z dbałością o każdy szczegół.</li>
+                        <li>Cena:<strong> 2498 PLN</strong></li>
+                    </ul>
+
+                    <h2>Proces realiazacji po zakupie</h2>
+
+                    <ul>
+                        <li>1. Skontaktujemy się z Tobą, aby omówić szczegóły projektu.</li>
+                        <li>2. Prześlemy Ci formularz i poprosimy o uzupełnienie danymi które będą potrzebne do stworzenia Twojego produktu.</li>
+                        <li>3. Przystąpimy do pracy i będziemy na bieżąco informować Cię o postępach.</li>
+                        <li>4. Otrzymasz demo produktu, na podstawie którego określisz swoje uwagi i poprawki.</li>
+                        <li>5. Po zmianach, otrzymasz finalny produkt, gotowy do publikacji.</li>
+                    </ul>
+
+                    <h2>O Nas</h2>
+                    <p> Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów. </p>
+                    
+                    <h2>Kontakt</h2>
+                    <p>
+                        Masz pytania? Skontaktuj się z nami: <br>
+                        <strong>E-mail:</strong> hello@varsa.codes <br>
+                        <strong>Strona internetowa:</strong> <a href=""https://www.varsa.codes"">https://www.varsa.codes</a>
+                    </p>
+
+                    <h2>Najczęściej zadawane pytania</h2>
+                    <ol>
+                        
+                <li>
+                    <strong>Czym jest React i NextJS?</strong>
+                    <p>React to nowoczesna biblioteka JavaScript, która pozwala tworzyć dynamiczne i responsywne interfejsy użytkownika. Next.js to framework oparty na React, który oferuje dodatkowe funkcjonalności, takie jak serwerowe renderowanie stron (SSR), generowanie statycznych stron (SSG) oraz wbudowaną optymalizację wydajności i SEO. Dzięki tej kombinacji aplikacje są szybkie, skalowalne i przyjazne użytkownikowi.</p>
+                </li>
+            
+                <li>
+                    <strong>Dlaczego produkty cyfrowe oparte o React i NextJS są lepsze niż Wordpress?</strong>
+                    <p>Produkty oparte na React i Next.js są szybsze, bardziej bezpieczne i elastyczne. W przeciwieństwie do WordPressa, który często wymaga dodatkowych wtyczek, React i Next.js oferują pełną kontrolę nad kodem i lepsze dostosowanie do specyficznych potrzeb. Dodatkowo aplikacje zbudowane na tych technologiach są bardziej przyszłościowe i łatwiejsze do skalowania.</p>
+                </li>
+            
+                <li>
+                    <strong>Która z wymienionych technologii jest nowocześniejsza i bardziej przyszłościowa?</strong>
+                    <p>React i Next.js to jedne z najnowocześniejszych i najbardziej przyszłościowych technologii dostępnych na rynku. Dzięki wsparciu dużej społeczności programistów oraz firm takich jak Meta i Vercel, technologie te stale się rozwijają i oferują nowoczesne rozwiązania, które są zgodne z trendami w branży IT.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest JavaScript i dlaczego ta technologia ma przewagę nad Wordpress?</strong>
+                    <p>JavaScript to język programowania, który jest fundamentem nowoczesnych stron internetowych i aplikacji. Umożliwia dynamiczne i interaktywne funkcje na stronach, takie jak animacje czy zaawansowane formularze. W odróżnieniu od WordPressa, który jest systemem CMS opartym głównie na PHP, JavaScript oferuje większą szybkość działania, lepsze wsparcie dla aplikacji mobilnych oraz możliwość budowania złożonych aplikacji webowych.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest CMS i jak się go używa?</strong>
+                    <p>CMS (System Zarządzania Treścią) to narzędzie, które pozwala łatwo zarządzać zawartością strony internetowej, taką jak teksty, obrazy czy produkty w sklepie. Przykłady CMS-ów to Sanity czy WordPress. Użytkownik nie musi mieć wiedzy programistycznej, aby aktualizować treści – wystarczy zalogować się do intuicyjnego panelu administracyjnego.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy zarządzanie stroną jest skomplikowane?</strong>
+                    <p>Nie, nasze strony są wyposażone w intuicyjny system CMS, który umożliwia łatwą edycję treści. Dodatkowo oferujemy szkolenie, które zapewnia pełne przygotowanie do samodzielnego zarządzania stroną.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy można ustalić dodatkowe funkcje strony/aplikacji?</strong>
+                    <p>Tak, oczywiście! Nasze studio jest otwarte na dopasowanie projektu do Twoich potrzeb. Jeśli masz pomysł na dodatkowe funkcje, zapraszamy do kontaktu. Wspólnie zaprojektujemy rozwiązanie, które w pełni odpowie na Twoje oczekiwania.</p>
+                </li>
+            
+                <li>
+                    <strong>Ile wynosi gwarancja działania strony?</strong>
+                    <p>Oferujemy gwarancję działania strony na 12 miesięcy. Dodatkowo zapewniamy podstawową opiekę serwisową przez 3 miesiące, którą można rozszerzyć do pełnych 12 miesięcy. Dzięki temu masz pewność, że Twoja strona będzie działała bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Co obejmuje opieka serwisowa?</strong>
+                    <p>Opieka serwisowa obejmuje: usuwanie błędów w działaniu strony, aktualizacje systemu i bezpieczeństwa, drobne zmiany w treści i układzie strony, oraz stałe wsparcie techniczne i doradztwo. Dzięki naszej opiece możesz skupić się na rozwijaniu biznesu, a my zadbamy o sprawne działanie Twojej strony.</p>
+                </li>
+            
+                <li>
+                    <strong>Mam własną domenę i hosting – czy mogę z nich skorzystać?</strong>
+                    <p>Tak. Zrealizowany projekt połączymy pod Państwa domenę i przeniesiemy na wskazany przez Państwa hosting. Wszystko odbywa się sprawnie i bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy układ strony może być dostosowany do moich indywidualnych potrzeb?</strong>
+                    <p>Tak, projektujemy rozwiązania w pełni zgodne z indywidualnymi wymaganiami. Nie korzystamy z gotowych szablonów, co gwarantuje pełną unikalność i brak ograniczeń funkcjonalnych. Każda strona jest tworzona od podstaw i pozostaje własnością klienta.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy strona będzie kompatybilna z urządzeniami mobilnymi?</strong>
+                    <p>Tak, korzystamy z nowoczesnych bibliotek CSS dla React, tworzymy w pełni responsywne strony, które działają perfekcyjnie na urządzeniach mobilnych, tabletach i komputerach stacjonarnych.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy występują dodatkowe, miesięczne opłaty związane z utrzymaniem strony?</strong>
+                    <p>Nie, dostarczamy gotowe rozwiązanie, które nie generuje dodatkowych kosztów utrzymania. Jeżeli zdecydują się Państwo na dodatkowe usługi, niebędące przedmiotem tej oferty, jak dodatkowe integracje z płatnymi SDK, koszty te będą jasno przedstawione w dodatkowej umowie.</p>
+                </li>
+             <!-- Injecting the FAQ HTML -->
+                    </ol>
+                    </div>
+                <div class=""footer"">
+                    &copy; 2024 Varsa Codes. Wszystkie prawa zastrzeżone.
+                </div>
+            </div>
+        </body>
+        </html>"
+custom-product-7,Strona internetowa - [React + NextJS + Node] Minimalistyczny (48h (ekspr...,Strona internetowa,React + NextJS + Node,Minimalistyczny,CMS,48h (ekspres),3497,"Zamawiając produkty cyfrowe w naszym studiu zawsze otrzymujesz gotowy, kompleksowy i skalowany produkt zawierający:
+        - Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.
+        - Podstawowy pakiet wszystkich realizacji obejmuje między innymi: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)
+        - Najlepsza dostępna technologia. Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.
+        - Wybrany styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.
+        - Łatwo zarządzaj swoją stroną dzięki intuicyjnemu systemowi zarządzania treścią (CMS Sanity). Edytuj treści i aktualizuj informacje w kilka kliknięć!
+        - Czas realizacji: Błyskawiczna realizacja projektu w ciągu 48 godzin – idealne dla tych, którzy potrzebują rozwiązania na już.
+
+Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów.
+
+Skontaktuj się z nami w przypadku pytań: 
+        - E-mail: hello@varsa.codes
+        - Więcej informacji i pełna oferta: https://www.varsa.codes/","<!DOCTYPE html>
+        <html lang=""pl"">
+        <head>
+            <meta charset=""UTF-8"">
+            <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+            <title>Strona internetowa - Oferta</title>
+           <style>
+    body {
+        font-family: 'Courier New', monospace; /* Bold, raw font choice */
+        margin: 20px;
+        background: #f4f4f4; /* Light grey background */
+        color: #111; /* Darker, high-contrast text color */
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        border: 4px solid #111; /* Thick, unapologetic border */
+        border-radius: 0; /* Brutalist designs avoid rounded edges */
+        overflow: hidden;
+        box-shadow: none; /* Remove soft shadows */
+        background: #fff; /* Use solid white for container background */
+    }
+    .header {
+        background: #ff5722; /* Bright, bold color for emphasis */
+        color: #fff;
+        padding: 20px; /* Slightly larger padding for bold impact */
+        text-align: left; /* Shift to raw, uneven alignment */
+        border-bottom: 4px solid #111; /* Strong separation line */
+    }
+    .header h1 {
+        margin: 0;
+        font-size: 2.5rem; /* Bold, large headline */
+        text-transform: uppercase; /* Raw, bold typography */
+    }
+    .content {
+        padding: 30px;
+        font-size: 1.1rem; /* Slightly larger font for readability */
+        background: #f4f4f4; /* Consistent light-grey background */
+        color: #111; /* High-contrast text */
+        border-top: 4px solid #111; /* Bold section divider */
+    }
+    .features {
+        margin: 20px 0;
+        padding: 20px;
+        background: #fffb00; /* Bright yellow for emphasis */
+        border-left: 10px solid #111; /* Bold border */
+        font-weight: bold; /* Strong emphasis on text */
+    }
+    .footer {
+        background: #111; /* Dark, strong contrast footer */
+        text-align: center;
+        padding: 20px;
+        font-size: 14px;
+        color: #fff; /* White text for contrast */
+        border-top: 4px solid #ff5722; /* Connect footer to header visually */
+    }
+</style>
+
+        </head>
+        <body>
+            <div class=""container"">
+                <div class=""header"">
+                    <h1>Strona internetowa</h1>
+                </div>
+                <div class=""content"">
+                    <h2>Opis Produktu</h2>
+                    <p>Przedmiotem aukcji jest nowoczesny produkt cyfrowy: Strona internetowa.
+<br></br>    
+Dzięki zaawansowanym rozwiązaniom z zakresu sztucznej inteligencji, nasz zespół dostarcza cyfrowe produkty oparte na technologiach React i Next.js w atrakcyjnych cenach. AI pozwala nam przyspieszyć proces programistyczny, zapewniając klientom innowacyjne i wydajne rozwiązania bez kompromisów jakościowych.
+<br></br>    
+Zrezygnuj z ograniczeń przestarzałych systemów, takich jak WordPress, z jego powolnymi szablonami i wtyczkami. Nasze projekty wyróżniają się nowoczesnym designem, bezpieczeństwem i szybkością działania, które wprowadzają Twoją markę na wyższy poziom.
+<br></br>    
+Technologia, której używają liderzy branży – Facebook, Netflix, Nike – jest teraz dostępna dla Twojej firmy dzięki naszemu zespołowi w Software Studio Varsa Codes. Nie idź na kompromisy – wybierz rozwiązania, które pozwalają się wyróżnić w dynamicznym świecie online.
+
+</p>
+                    <br></br>
+                    <p><strong>Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.</strong></p>
+                    <br></br>
+                    <h2>Wybierając naszą ofertę otrzymasz:</h2>
+                    <ul>
+                        <li>Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.</li>
+                        <li>Styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.</li>
+                        <li>Funkcje domyślne: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)</li>
+                        <li>Dodatki: undefined</li>
+                        <li>Czas realizacji: Błyskawiczna realizacja projektu w ciągu 48 godzin – idealne dla tych, którzy potrzebują rozwiązania na już.</li>
+                        <li>Cena:<strong> 3497 PLN</strong></li>
+                    </ul>
+
+                    <h2>Proces realiazacji po zakupie</h2>
+
+                    <ul>
+                        <li>1. Skontaktujemy się z Tobą, aby omówić szczegóły projektu.</li>
+                        <li>2. Prześlemy Ci formularz i poprosimy o uzupełnienie danymi które będą potrzebne do stworzenia Twojego produktu.</li>
+                        <li>3. Przystąpimy do pracy i będziemy na bieżąco informować Cię o postępach.</li>
+                        <li>4. Otrzymasz demo produktu, na podstawie którego określisz swoje uwagi i poprawki.</li>
+                        <li>5. Po zmianach, otrzymasz finalny produkt, gotowy do publikacji.</li>
+                    </ul>
+
+                    <h2>O Nas</h2>
+                    <p> Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów. </p>
+                    
+                    <h2>Kontakt</h2>
+                    <p>
+                        Masz pytania? Skontaktuj się z nami: <br>
+                        <strong>E-mail:</strong> hello@varsa.codes <br>
+                        <strong>Strona internetowa:</strong> <a href=""https://www.varsa.codes"">https://www.varsa.codes</a>
+                    </p>
+
+                    <h2>Najczęściej zadawane pytania</h2>
+                    <ol>
+                        
+                <li>
+                    <strong>Czym jest React i NextJS?</strong>
+                    <p>React to nowoczesna biblioteka JavaScript, która pozwala tworzyć dynamiczne i responsywne interfejsy użytkownika. Next.js to framework oparty na React, który oferuje dodatkowe funkcjonalności, takie jak serwerowe renderowanie stron (SSR), generowanie statycznych stron (SSG) oraz wbudowaną optymalizację wydajności i SEO. Dzięki tej kombinacji aplikacje są szybkie, skalowalne i przyjazne użytkownikowi.</p>
+                </li>
+            
+                <li>
+                    <strong>Dlaczego produkty cyfrowe oparte o React i NextJS są lepsze niż Wordpress?</strong>
+                    <p>Produkty oparte na React i Next.js są szybsze, bardziej bezpieczne i elastyczne. W przeciwieństwie do WordPressa, który często wymaga dodatkowych wtyczek, React i Next.js oferują pełną kontrolę nad kodem i lepsze dostosowanie do specyficznych potrzeb. Dodatkowo aplikacje zbudowane na tych technologiach są bardziej przyszłościowe i łatwiejsze do skalowania.</p>
+                </li>
+            
+                <li>
+                    <strong>Która z wymienionych technologii jest nowocześniejsza i bardziej przyszłościowa?</strong>
+                    <p>React i Next.js to jedne z najnowocześniejszych i najbardziej przyszłościowych technologii dostępnych na rynku. Dzięki wsparciu dużej społeczności programistów oraz firm takich jak Meta i Vercel, technologie te stale się rozwijają i oferują nowoczesne rozwiązania, które są zgodne z trendami w branży IT.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest JavaScript i dlaczego ta technologia ma przewagę nad Wordpress?</strong>
+                    <p>JavaScript to język programowania, który jest fundamentem nowoczesnych stron internetowych i aplikacji. Umożliwia dynamiczne i interaktywne funkcje na stronach, takie jak animacje czy zaawansowane formularze. W odróżnieniu od WordPressa, który jest systemem CMS opartym głównie na PHP, JavaScript oferuje większą szybkość działania, lepsze wsparcie dla aplikacji mobilnych oraz możliwość budowania złożonych aplikacji webowych.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest CMS i jak się go używa?</strong>
+                    <p>CMS (System Zarządzania Treścią) to narzędzie, które pozwala łatwo zarządzać zawartością strony internetowej, taką jak teksty, obrazy czy produkty w sklepie. Przykłady CMS-ów to Sanity czy WordPress. Użytkownik nie musi mieć wiedzy programistycznej, aby aktualizować treści – wystarczy zalogować się do intuicyjnego panelu administracyjnego.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy zarządzanie stroną jest skomplikowane?</strong>
+                    <p>Nie, nasze strony są wyposażone w intuicyjny system CMS, który umożliwia łatwą edycję treści. Dodatkowo oferujemy szkolenie, które zapewnia pełne przygotowanie do samodzielnego zarządzania stroną.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy można ustalić dodatkowe funkcje strony/aplikacji?</strong>
+                    <p>Tak, oczywiście! Nasze studio jest otwarte na dopasowanie projektu do Twoich potrzeb. Jeśli masz pomysł na dodatkowe funkcje, zapraszamy do kontaktu. Wspólnie zaprojektujemy rozwiązanie, które w pełni odpowie na Twoje oczekiwania.</p>
+                </li>
+            
+                <li>
+                    <strong>Ile wynosi gwarancja działania strony?</strong>
+                    <p>Oferujemy gwarancję działania strony na 12 miesięcy. Dodatkowo zapewniamy podstawową opiekę serwisową przez 3 miesiące, którą można rozszerzyć do pełnych 12 miesięcy. Dzięki temu masz pewność, że Twoja strona będzie działała bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Co obejmuje opieka serwisowa?</strong>
+                    <p>Opieka serwisowa obejmuje: usuwanie błędów w działaniu strony, aktualizacje systemu i bezpieczeństwa, drobne zmiany w treści i układzie strony, oraz stałe wsparcie techniczne i doradztwo. Dzięki naszej opiece możesz skupić się na rozwijaniu biznesu, a my zadbamy o sprawne działanie Twojej strony.</p>
+                </li>
+            
+                <li>
+                    <strong>Mam własną domenę i hosting – czy mogę z nich skorzystać?</strong>
+                    <p>Tak. Zrealizowany projekt połączymy pod Państwa domenę i przeniesiemy na wskazany przez Państwa hosting. Wszystko odbywa się sprawnie i bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy układ strony może być dostosowany do moich indywidualnych potrzeb?</strong>
+                    <p>Tak, projektujemy rozwiązania w pełni zgodne z indywidualnymi wymaganiami. Nie korzystamy z gotowych szablonów, co gwarantuje pełną unikalność i brak ograniczeń funkcjonalnych. Każda strona jest tworzona od podstaw i pozostaje własnością klienta.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy strona będzie kompatybilna z urządzeniami mobilnymi?</strong>
+                    <p>Tak, korzystamy z nowoczesnych bibliotek CSS dla React, tworzymy w pełni responsywne strony, które działają perfekcyjnie na urządzeniach mobilnych, tabletach i komputerach stacjonarnych.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy występują dodatkowe, miesięczne opłaty związane z utrzymaniem strony?</strong>
+                    <p>Nie, dostarczamy gotowe rozwiązanie, które nie generuje dodatkowych kosztów utrzymania. Jeżeli zdecydują się Państwo na dodatkowe usługi, niebędące przedmiotem tej oferty, jak dodatkowe integracje z płatnymi SDK, koszty te będą jasno przedstawione w dodatkowej umowie.</p>
+                </li>
+             <!-- Injecting the FAQ HTML -->
+                    </ol>
+                    </div>
+                <div class=""footer"">
+                    &copy; 2024 Varsa Codes. Wszystkie prawa zastrzeżone.
+                </div>
+            </div>
+        </body>
+        </html>"
+custom-product-8,Strona internetowa - [React + NextJS + Node] Minimalistyczny (5 dni (eks...,Strona internetowa,React + NextJS + Node,Minimalistyczny,CMS,5 dni (ekspres),3497,"Zamawiając produkty cyfrowe w naszym studiu zawsze otrzymujesz gotowy, kompleksowy i skalowany produkt zawierający:
+        - Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.
+        - Podstawowy pakiet wszystkich realizacji obejmuje między innymi: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)
+        - Najlepsza dostępna technologia. Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.
+        - Wybrany styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.
+        - Łatwo zarządzaj swoją stroną dzięki intuicyjnemu systemowi zarządzania treścią (CMS Sanity). Edytuj treści i aktualizuj informacje w kilka kliknięć!
+        - Czas realizacji: Przyspieszony czas realizacji wynoszący 5 dni roboczych – szybkie i profesjonalne wykonanie.
+
+Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów.
+
+Skontaktuj się z nami w przypadku pytań: 
+        - E-mail: hello@varsa.codes
+        - Więcej informacji i pełna oferta: https://www.varsa.codes/","<!DOCTYPE html>
+        <html lang=""pl"">
+        <head>
+            <meta charset=""UTF-8"">
+            <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+            <title>Strona internetowa - Oferta</title>
+           <style>
+    body {
+        font-family: 'Courier New', monospace; /* Bold, raw font choice */
+        margin: 20px;
+        background: #f4f4f4; /* Light grey background */
+        color: #111; /* Darker, high-contrast text color */
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        border: 4px solid #111; /* Thick, unapologetic border */
+        border-radius: 0; /* Brutalist designs avoid rounded edges */
+        overflow: hidden;
+        box-shadow: none; /* Remove soft shadows */
+        background: #fff; /* Use solid white for container background */
+    }
+    .header {
+        background: #ff5722; /* Bright, bold color for emphasis */
+        color: #fff;
+        padding: 20px; /* Slightly larger padding for bold impact */
+        text-align: left; /* Shift to raw, uneven alignment */
+        border-bottom: 4px solid #111; /* Strong separation line */
+    }
+    .header h1 {
+        margin: 0;
+        font-size: 2.5rem; /* Bold, large headline */
+        text-transform: uppercase; /* Raw, bold typography */
+    }
+    .content {
+        padding: 30px;
+        font-size: 1.1rem; /* Slightly larger font for readability */
+        background: #f4f4f4; /* Consistent light-grey background */
+        color: #111; /* High-contrast text */
+        border-top: 4px solid #111; /* Bold section divider */
+    }
+    .features {
+        margin: 20px 0;
+        padding: 20px;
+        background: #fffb00; /* Bright yellow for emphasis */
+        border-left: 10px solid #111; /* Bold border */
+        font-weight: bold; /* Strong emphasis on text */
+    }
+    .footer {
+        background: #111; /* Dark, strong contrast footer */
+        text-align: center;
+        padding: 20px;
+        font-size: 14px;
+        color: #fff; /* White text for contrast */
+        border-top: 4px solid #ff5722; /* Connect footer to header visually */
+    }
+</style>
+
+        </head>
+        <body>
+            <div class=""container"">
+                <div class=""header"">
+                    <h1>Strona internetowa</h1>
+                </div>
+                <div class=""content"">
+                    <h2>Opis Produktu</h2>
+                    <p>Przedmiotem aukcji jest nowoczesny produkt cyfrowy: Strona internetowa.
+<br></br>    
+Dzięki zaawansowanym rozwiązaniom z zakresu sztucznej inteligencji, nasz zespół dostarcza cyfrowe produkty oparte na technologiach React i Next.js w atrakcyjnych cenach. AI pozwala nam przyspieszyć proces programistyczny, zapewniając klientom innowacyjne i wydajne rozwiązania bez kompromisów jakościowych.
+<br></br>    
+Zrezygnuj z ograniczeń przestarzałych systemów, takich jak WordPress, z jego powolnymi szablonami i wtyczkami. Nasze projekty wyróżniają się nowoczesnym designem, bezpieczeństwem i szybkością działania, które wprowadzają Twoją markę na wyższy poziom.
+<br></br>    
+Technologia, której używają liderzy branży – Facebook, Netflix, Nike – jest teraz dostępna dla Twojej firmy dzięki naszemu zespołowi w Software Studio Varsa Codes. Nie idź na kompromisy – wybierz rozwiązania, które pozwalają się wyróżnić w dynamicznym świecie online.
+
+</p>
+                    <br></br>
+                    <p><strong>Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.</strong></p>
+                    <br></br>
+                    <h2>Wybierając naszą ofertę otrzymasz:</h2>
+                    <ul>
+                        <li>Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.</li>
+                        <li>Styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.</li>
+                        <li>Funkcje domyślne: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)</li>
+                        <li>Dodatki: undefined</li>
+                        <li>Czas realizacji: Przyspieszony czas realizacji wynoszący 5 dni roboczych – szybkie i profesjonalne wykonanie.</li>
+                        <li>Cena:<strong> 3497 PLN</strong></li>
+                    </ul>
+
+                    <h2>Proces realiazacji po zakupie</h2>
+
+                    <ul>
+                        <li>1. Skontaktujemy się z Tobą, aby omówić szczegóły projektu.</li>
+                        <li>2. Prześlemy Ci formularz i poprosimy o uzupełnienie danymi które będą potrzebne do stworzenia Twojego produktu.</li>
+                        <li>3. Przystąpimy do pracy i będziemy na bieżąco informować Cię o postępach.</li>
+                        <li>4. Otrzymasz demo produktu, na podstawie którego określisz swoje uwagi i poprawki.</li>
+                        <li>5. Po zmianach, otrzymasz finalny produkt, gotowy do publikacji.</li>
+                    </ul>
+
+                    <h2>O Nas</h2>
+                    <p> Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów. </p>
+                    
+                    <h2>Kontakt</h2>
+                    <p>
+                        Masz pytania? Skontaktuj się z nami: <br>
+                        <strong>E-mail:</strong> hello@varsa.codes <br>
+                        <strong>Strona internetowa:</strong> <a href=""https://www.varsa.codes"">https://www.varsa.codes</a>
+                    </p>
+
+                    <h2>Najczęściej zadawane pytania</h2>
+                    <ol>
+                        
+                <li>
+                    <strong>Czym jest React i NextJS?</strong>
+                    <p>React to nowoczesna biblioteka JavaScript, która pozwala tworzyć dynamiczne i responsywne interfejsy użytkownika. Next.js to framework oparty na React, który oferuje dodatkowe funkcjonalności, takie jak serwerowe renderowanie stron (SSR), generowanie statycznych stron (SSG) oraz wbudowaną optymalizację wydajności i SEO. Dzięki tej kombinacji aplikacje są szybkie, skalowalne i przyjazne użytkownikowi.</p>
+                </li>
+            
+                <li>
+                    <strong>Dlaczego produkty cyfrowe oparte o React i NextJS są lepsze niż Wordpress?</strong>
+                    <p>Produkty oparte na React i Next.js są szybsze, bardziej bezpieczne i elastyczne. W przeciwieństwie do WordPressa, który często wymaga dodatkowych wtyczek, React i Next.js oferują pełną kontrolę nad kodem i lepsze dostosowanie do specyficznych potrzeb. Dodatkowo aplikacje zbudowane na tych technologiach są bardziej przyszłościowe i łatwiejsze do skalowania.</p>
+                </li>
+            
+                <li>
+                    <strong>Która z wymienionych technologii jest nowocześniejsza i bardziej przyszłościowa?</strong>
+                    <p>React i Next.js to jedne z najnowocześniejszych i najbardziej przyszłościowych technologii dostępnych na rynku. Dzięki wsparciu dużej społeczności programistów oraz firm takich jak Meta i Vercel, technologie te stale się rozwijają i oferują nowoczesne rozwiązania, które są zgodne z trendami w branży IT.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest JavaScript i dlaczego ta technologia ma przewagę nad Wordpress?</strong>
+                    <p>JavaScript to język programowania, który jest fundamentem nowoczesnych stron internetowych i aplikacji. Umożliwia dynamiczne i interaktywne funkcje na stronach, takie jak animacje czy zaawansowane formularze. W odróżnieniu od WordPressa, który jest systemem CMS opartym głównie na PHP, JavaScript oferuje większą szybkość działania, lepsze wsparcie dla aplikacji mobilnych oraz możliwość budowania złożonych aplikacji webowych.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest CMS i jak się go używa?</strong>
+                    <p>CMS (System Zarządzania Treścią) to narzędzie, które pozwala łatwo zarządzać zawartością strony internetowej, taką jak teksty, obrazy czy produkty w sklepie. Przykłady CMS-ów to Sanity czy WordPress. Użytkownik nie musi mieć wiedzy programistycznej, aby aktualizować treści – wystarczy zalogować się do intuicyjnego panelu administracyjnego.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy zarządzanie stroną jest skomplikowane?</strong>
+                    <p>Nie, nasze strony są wyposażone w intuicyjny system CMS, który umożliwia łatwą edycję treści. Dodatkowo oferujemy szkolenie, które zapewnia pełne przygotowanie do samodzielnego zarządzania stroną.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy można ustalić dodatkowe funkcje strony/aplikacji?</strong>
+                    <p>Tak, oczywiście! Nasze studio jest otwarte na dopasowanie projektu do Twoich potrzeb. Jeśli masz pomysł na dodatkowe funkcje, zapraszamy do kontaktu. Wspólnie zaprojektujemy rozwiązanie, które w pełni odpowie na Twoje oczekiwania.</p>
+                </li>
+            
+                <li>
+                    <strong>Ile wynosi gwarancja działania strony?</strong>
+                    <p>Oferujemy gwarancję działania strony na 12 miesięcy. Dodatkowo zapewniamy podstawową opiekę serwisową przez 3 miesiące, którą można rozszerzyć do pełnych 12 miesięcy. Dzięki temu masz pewność, że Twoja strona będzie działała bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Co obejmuje opieka serwisowa?</strong>
+                    <p>Opieka serwisowa obejmuje: usuwanie błędów w działaniu strony, aktualizacje systemu i bezpieczeństwa, drobne zmiany w treści i układzie strony, oraz stałe wsparcie techniczne i doradztwo. Dzięki naszej opiece możesz skupić się na rozwijaniu biznesu, a my zadbamy o sprawne działanie Twojej strony.</p>
+                </li>
+            
+                <li>
+                    <strong>Mam własną domenę i hosting – czy mogę z nich skorzystać?</strong>
+                    <p>Tak. Zrealizowany projekt połączymy pod Państwa domenę i przeniesiemy na wskazany przez Państwa hosting. Wszystko odbywa się sprawnie i bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy układ strony może być dostosowany do moich indywidualnych potrzeb?</strong>
+                    <p>Tak, projektujemy rozwiązania w pełni zgodne z indywidualnymi wymaganiami. Nie korzystamy z gotowych szablonów, co gwarantuje pełną unikalność i brak ograniczeń funkcjonalnych. Każda strona jest tworzona od podstaw i pozostaje własnością klienta.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy strona będzie kompatybilna z urządzeniami mobilnymi?</strong>
+                    <p>Tak, korzystamy z nowoczesnych bibliotek CSS dla React, tworzymy w pełni responsywne strony, które działają perfekcyjnie na urządzeniach mobilnych, tabletach i komputerach stacjonarnych.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy występują dodatkowe, miesięczne opłaty związane z utrzymaniem strony?</strong>
+                    <p>Nie, dostarczamy gotowe rozwiązanie, które nie generuje dodatkowych kosztów utrzymania. Jeżeli zdecydują się Państwo na dodatkowe usługi, niebędące przedmiotem tej oferty, jak dodatkowe integracje z płatnymi SDK, koszty te będą jasno przedstawione w dodatkowej umowie.</p>
+                </li>
+             <!-- Injecting the FAQ HTML -->
+                    </ol>
+                    </div>
+                <div class=""footer"">
+                    &copy; 2024 Varsa Codes. Wszystkie prawa zastrzeżone.
+                </div>
+            </div>
+        </body>
+        </html>"
+custom-product-9,Strona internetowa - [React + NextJS + Node] Minimalistyczny (7 dni) Mul...,Strona internetowa,React + NextJS + Node,Minimalistyczny,Multi-lang,7 dni,2398,"Zamawiając produkty cyfrowe w naszym studiu zawsze otrzymujesz gotowy, kompleksowy i skalowany produkt zawierający:
+        - Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.
+        - Podstawowy pakiet wszystkich realizacji obejmuje między innymi: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)
+        - Najlepsza dostępna technologia. Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.
+        - Wybrany styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.
+        - Dotrzyj do klientów na całym świecie dzięki wsparciu dla wielu języków. Twórz strony dostępne dla każdego!
+        - Czas realizacji: Standardowy czas realizacji wynoszący 7 dni roboczych – solidna praca w przemyślanym tempie.
+
+Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów.
+
+Skontaktuj się z nami w przypadku pytań: 
+        - E-mail: hello@varsa.codes
+        - Więcej informacji i pełna oferta: https://www.varsa.codes/","<!DOCTYPE html>
+        <html lang=""pl"">
+        <head>
+            <meta charset=""UTF-8"">
+            <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+            <title>Strona internetowa - Oferta</title>
+           <style>
+    body {
+        font-family: 'Courier New', monospace; /* Bold, raw font choice */
+        margin: 20px;
+        background: #f4f4f4; /* Light grey background */
+        color: #111; /* Darker, high-contrast text color */
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        border: 4px solid #111; /* Thick, unapologetic border */
+        border-radius: 0; /* Brutalist designs avoid rounded edges */
+        overflow: hidden;
+        box-shadow: none; /* Remove soft shadows */
+        background: #fff; /* Use solid white for container background */
+    }
+    .header {
+        background: #ff5722; /* Bright, bold color for emphasis */
+        color: #fff;
+        padding: 20px; /* Slightly larger padding for bold impact */
+        text-align: left; /* Shift to raw, uneven alignment */
+        border-bottom: 4px solid #111; /* Strong separation line */
+    }
+    .header h1 {
+        margin: 0;
+        font-size: 2.5rem; /* Bold, large headline */
+        text-transform: uppercase; /* Raw, bold typography */
+    }
+    .content {
+        padding: 30px;
+        font-size: 1.1rem; /* Slightly larger font for readability */
+        background: #f4f4f4; /* Consistent light-grey background */
+        color: #111; /* High-contrast text */
+        border-top: 4px solid #111; /* Bold section divider */
+    }
+    .features {
+        margin: 20px 0;
+        padding: 20px;
+        background: #fffb00; /* Bright yellow for emphasis */
+        border-left: 10px solid #111; /* Bold border */
+        font-weight: bold; /* Strong emphasis on text */
+    }
+    .footer {
+        background: #111; /* Dark, strong contrast footer */
+        text-align: center;
+        padding: 20px;
+        font-size: 14px;
+        color: #fff; /* White text for contrast */
+        border-top: 4px solid #ff5722; /* Connect footer to header visually */
+    }
+</style>
+
+        </head>
+        <body>
+            <div class=""container"">
+                <div class=""header"">
+                    <h1>Strona internetowa</h1>
+                </div>
+                <div class=""content"">
+                    <h2>Opis Produktu</h2>
+                    <p>Przedmiotem aukcji jest nowoczesny produkt cyfrowy: Strona internetowa.
+<br></br>    
+Dzięki zaawansowanym rozwiązaniom z zakresu sztucznej inteligencji, nasz zespół dostarcza cyfrowe produkty oparte na technologiach React i Next.js w atrakcyjnych cenach. AI pozwala nam przyspieszyć proces programistyczny, zapewniając klientom innowacyjne i wydajne rozwiązania bez kompromisów jakościowych.
+<br></br>    
+Zrezygnuj z ograniczeń przestarzałych systemów, takich jak WordPress, z jego powolnymi szablonami i wtyczkami. Nasze projekty wyróżniają się nowoczesnym designem, bezpieczeństwem i szybkością działania, które wprowadzają Twoją markę na wyższy poziom.
+<br></br>    
+Technologia, której używają liderzy branży – Facebook, Netflix, Nike – jest teraz dostępna dla Twojej firmy dzięki naszemu zespołowi w Software Studio Varsa Codes. Nie idź na kompromisy – wybierz rozwiązania, które pozwalają się wyróżnić w dynamicznym świecie online.
+
+</p>
+                    <br></br>
+                    <p><strong>Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.</strong></p>
+                    <br></br>
+                    <h2>Wybierając naszą ofertę otrzymasz:</h2>
+                    <ul>
+                        <li>Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.</li>
+                        <li>Styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.</li>
+                        <li>Funkcje domyślne: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)</li>
+                        <li>Dodatki: undefined</li>
+                        <li>Czas realizacji: Standardowy czas realizacji wynoszący 7 dni roboczych – solidna praca w przemyślanym tempie.</li>
+                        <li>Cena:<strong> 2398 PLN</strong></li>
+                    </ul>
+
+                    <h2>Proces realiazacji po zakupie</h2>
+
+                    <ul>
+                        <li>1. Skontaktujemy się z Tobą, aby omówić szczegóły projektu.</li>
+                        <li>2. Prześlemy Ci formularz i poprosimy o uzupełnienie danymi które będą potrzebne do stworzenia Twojego produktu.</li>
+                        <li>3. Przystąpimy do pracy i będziemy na bieżąco informować Cię o postępach.</li>
+                        <li>4. Otrzymasz demo produktu, na podstawie którego określisz swoje uwagi i poprawki.</li>
+                        <li>5. Po zmianach, otrzymasz finalny produkt, gotowy do publikacji.</li>
+                    </ul>
+
+                    <h2>O Nas</h2>
+                    <p> Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów. </p>
+                    
+                    <h2>Kontakt</h2>
+                    <p>
+                        Masz pytania? Skontaktuj się z nami: <br>
+                        <strong>E-mail:</strong> hello@varsa.codes <br>
+                        <strong>Strona internetowa:</strong> <a href=""https://www.varsa.codes"">https://www.varsa.codes</a>
+                    </p>
+
+                    <h2>Najczęściej zadawane pytania</h2>
+                    <ol>
+                        
+                <li>
+                    <strong>Czym jest React i NextJS?</strong>
+                    <p>React to nowoczesna biblioteka JavaScript, która pozwala tworzyć dynamiczne i responsywne interfejsy użytkownika. Next.js to framework oparty na React, który oferuje dodatkowe funkcjonalności, takie jak serwerowe renderowanie stron (SSR), generowanie statycznych stron (SSG) oraz wbudowaną optymalizację wydajności i SEO. Dzięki tej kombinacji aplikacje są szybkie, skalowalne i przyjazne użytkownikowi.</p>
+                </li>
+            
+                <li>
+                    <strong>Dlaczego produkty cyfrowe oparte o React i NextJS są lepsze niż Wordpress?</strong>
+                    <p>Produkty oparte na React i Next.js są szybsze, bardziej bezpieczne i elastyczne. W przeciwieństwie do WordPressa, który często wymaga dodatkowych wtyczek, React i Next.js oferują pełną kontrolę nad kodem i lepsze dostosowanie do specyficznych potrzeb. Dodatkowo aplikacje zbudowane na tych technologiach są bardziej przyszłościowe i łatwiejsze do skalowania.</p>
+                </li>
+            
+                <li>
+                    <strong>Która z wymienionych technologii jest nowocześniejsza i bardziej przyszłościowa?</strong>
+                    <p>React i Next.js to jedne z najnowocześniejszych i najbardziej przyszłościowych technologii dostępnych na rynku. Dzięki wsparciu dużej społeczności programistów oraz firm takich jak Meta i Vercel, technologie te stale się rozwijają i oferują nowoczesne rozwiązania, które są zgodne z trendami w branży IT.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest JavaScript i dlaczego ta technologia ma przewagę nad Wordpress?</strong>
+                    <p>JavaScript to język programowania, który jest fundamentem nowoczesnych stron internetowych i aplikacji. Umożliwia dynamiczne i interaktywne funkcje na stronach, takie jak animacje czy zaawansowane formularze. W odróżnieniu od WordPressa, który jest systemem CMS opartym głównie na PHP, JavaScript oferuje większą szybkość działania, lepsze wsparcie dla aplikacji mobilnych oraz możliwość budowania złożonych aplikacji webowych.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest CMS i jak się go używa?</strong>
+                    <p>CMS (System Zarządzania Treścią) to narzędzie, które pozwala łatwo zarządzać zawartością strony internetowej, taką jak teksty, obrazy czy produkty w sklepie. Przykłady CMS-ów to Sanity czy WordPress. Użytkownik nie musi mieć wiedzy programistycznej, aby aktualizować treści – wystarczy zalogować się do intuicyjnego panelu administracyjnego.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy zarządzanie stroną jest skomplikowane?</strong>
+                    <p>Nie, nasze strony są wyposażone w intuicyjny system CMS, który umożliwia łatwą edycję treści. Dodatkowo oferujemy szkolenie, które zapewnia pełne przygotowanie do samodzielnego zarządzania stroną.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy można ustalić dodatkowe funkcje strony/aplikacji?</strong>
+                    <p>Tak, oczywiście! Nasze studio jest otwarte na dopasowanie projektu do Twoich potrzeb. Jeśli masz pomysł na dodatkowe funkcje, zapraszamy do kontaktu. Wspólnie zaprojektujemy rozwiązanie, które w pełni odpowie na Twoje oczekiwania.</p>
+                </li>
+            
+                <li>
+                    <strong>Ile wynosi gwarancja działania strony?</strong>
+                    <p>Oferujemy gwarancję działania strony na 12 miesięcy. Dodatkowo zapewniamy podstawową opiekę serwisową przez 3 miesiące, którą można rozszerzyć do pełnych 12 miesięcy. Dzięki temu masz pewność, że Twoja strona będzie działała bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Co obejmuje opieka serwisowa?</strong>
+                    <p>Opieka serwisowa obejmuje: usuwanie błędów w działaniu strony, aktualizacje systemu i bezpieczeństwa, drobne zmiany w treści i układzie strony, oraz stałe wsparcie techniczne i doradztwo. Dzięki naszej opiece możesz skupić się na rozwijaniu biznesu, a my zadbamy o sprawne działanie Twojej strony.</p>
+                </li>
+            
+                <li>
+                    <strong>Mam własną domenę i hosting – czy mogę z nich skorzystać?</strong>
+                    <p>Tak. Zrealizowany projekt połączymy pod Państwa domenę i przeniesiemy na wskazany przez Państwa hosting. Wszystko odbywa się sprawnie i bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy układ strony może być dostosowany do moich indywidualnych potrzeb?</strong>
+                    <p>Tak, projektujemy rozwiązania w pełni zgodne z indywidualnymi wymaganiami. Nie korzystamy z gotowych szablonów, co gwarantuje pełną unikalność i brak ograniczeń funkcjonalnych. Każda strona jest tworzona od podstaw i pozostaje własnością klienta.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy strona będzie kompatybilna z urządzeniami mobilnymi?</strong>
+                    <p>Tak, korzystamy z nowoczesnych bibliotek CSS dla React, tworzymy w pełni responsywne strony, które działają perfekcyjnie na urządzeniach mobilnych, tabletach i komputerach stacjonarnych.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy występują dodatkowe, miesięczne opłaty związane z utrzymaniem strony?</strong>
+                    <p>Nie, dostarczamy gotowe rozwiązanie, które nie generuje dodatkowych kosztów utrzymania. Jeżeli zdecydują się Państwo na dodatkowe usługi, niebędące przedmiotem tej oferty, jak dodatkowe integracje z płatnymi SDK, koszty te będą jasno przedstawione w dodatkowej umowie.</p>
+                </li>
+             <!-- Injecting the FAQ HTML -->
+                    </ol>
+                    </div>
+                <div class=""footer"">
+                    &copy; 2024 Varsa Codes. Wszystkie prawa zastrzeżone.
+                </div>
+            </div>
+        </body>
+        </html>"
+custom-product-10,Strona internetowa - [React + NextJS + Node] Minimalistyczny (14 dni) Mu...,Strona internetowa,React + NextJS + Node,Minimalistyczny,Multi-lang,14 dni,2398,"Zamawiając produkty cyfrowe w naszym studiu zawsze otrzymujesz gotowy, kompleksowy i skalowany produkt zawierający:
+        - Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.
+        - Podstawowy pakiet wszystkich realizacji obejmuje między innymi: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)
+        - Najlepsza dostępna technologia. Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.
+        - Wybrany styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.
+        - Dotrzyj do klientów na całym świecie dzięki wsparciu dla wielu języków. Twórz strony dostępne dla każdego!
+        - Czas realizacji: Rozbudowane projekty realizowane w 14 dni roboczych z dbałością o każdy szczegół.
+
+Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów.
+
+Skontaktuj się z nami w przypadku pytań: 
+        - E-mail: hello@varsa.codes
+        - Więcej informacji i pełna oferta: https://www.varsa.codes/","<!DOCTYPE html>
+        <html lang=""pl"">
+        <head>
+            <meta charset=""UTF-8"">
+            <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+            <title>Strona internetowa - Oferta</title>
+           <style>
+    body {
+        font-family: 'Courier New', monospace; /* Bold, raw font choice */
+        margin: 20px;
+        background: #f4f4f4; /* Light grey background */
+        color: #111; /* Darker, high-contrast text color */
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        border: 4px solid #111; /* Thick, unapologetic border */
+        border-radius: 0; /* Brutalist designs avoid rounded edges */
+        overflow: hidden;
+        box-shadow: none; /* Remove soft shadows */
+        background: #fff; /* Use solid white for container background */
+    }
+    .header {
+        background: #ff5722; /* Bright, bold color for emphasis */
+        color: #fff;
+        padding: 20px; /* Slightly larger padding for bold impact */
+        text-align: left; /* Shift to raw, uneven alignment */
+        border-bottom: 4px solid #111; /* Strong separation line */
+    }
+    .header h1 {
+        margin: 0;
+        font-size: 2.5rem; /* Bold, large headline */
+        text-transform: uppercase; /* Raw, bold typography */
+    }
+    .content {
+        padding: 30px;
+        font-size: 1.1rem; /* Slightly larger font for readability */
+        background: #f4f4f4; /* Consistent light-grey background */
+        color: #111; /* High-contrast text */
+        border-top: 4px solid #111; /* Bold section divider */
+    }
+    .features {
+        margin: 20px 0;
+        padding: 20px;
+        background: #fffb00; /* Bright yellow for emphasis */
+        border-left: 10px solid #111; /* Bold border */
+        font-weight: bold; /* Strong emphasis on text */
+    }
+    .footer {
+        background: #111; /* Dark, strong contrast footer */
+        text-align: center;
+        padding: 20px;
+        font-size: 14px;
+        color: #fff; /* White text for contrast */
+        border-top: 4px solid #ff5722; /* Connect footer to header visually */
+    }
+</style>
+
+        </head>
+        <body>
+            <div class=""container"">
+                <div class=""header"">
+                    <h1>Strona internetowa</h1>
+                </div>
+                <div class=""content"">
+                    <h2>Opis Produktu</h2>
+                    <p>Przedmiotem aukcji jest nowoczesny produkt cyfrowy: Strona internetowa.
+<br></br>    
+Dzięki zaawansowanym rozwiązaniom z zakresu sztucznej inteligencji, nasz zespół dostarcza cyfrowe produkty oparte na technologiach React i Next.js w atrakcyjnych cenach. AI pozwala nam przyspieszyć proces programistyczny, zapewniając klientom innowacyjne i wydajne rozwiązania bez kompromisów jakościowych.
+<br></br>    
+Zrezygnuj z ograniczeń przestarzałych systemów, takich jak WordPress, z jego powolnymi szablonami i wtyczkami. Nasze projekty wyróżniają się nowoczesnym designem, bezpieczeństwem i szybkością działania, które wprowadzają Twoją markę na wyższy poziom.
+<br></br>    
+Technologia, której używają liderzy branży – Facebook, Netflix, Nike – jest teraz dostępna dla Twojej firmy dzięki naszemu zespołowi w Software Studio Varsa Codes. Nie idź na kompromisy – wybierz rozwiązania, które pozwalają się wyróżnić w dynamicznym świecie online.
+
+</p>
+                    <br></br>
+                    <p><strong>Profesjonalna strona internetowa to podstawa skutecznej obecności biznesowej w sieci. Dzięki zaawansowanym technologiom React i NextJS zapewniamy szybkość, bezpieczeństwo i skalowalność Twojej witryny. Przyciągnij uwagę klientów, zwiększ swoją widoczność online i podkreśl profesjonalizm swojej marki.</strong></p>
+                    <br></br>
+                    <h2>Wybierając naszą ofertę otrzymasz:</h2>
+                    <ul>
+                        <li>Nasze projekty wykorzystują nowoczesne technologie React, NextJS i Node.js, które zapewniają szybkość, bezpieczeństwo i doskonałą wydajność.</li>
+                        <li>Styl wizualny: Design Minimalistyczny. Czysty, prosty design, który skupia uwagę na najważniejszych treściach. Elegancja i funkcjonalność w idealnym balansie.</li>
+                        <li>Funkcje domyślne: Podstawowe elementy takie jak Domena i Hosting na 1 rok (Hosting), Pełną Responsywność - dostowanie do wyświetlania treści na kadym urządzeniu (RWD), Optymalizacja treści pod wyszukiwarki (SEO), Certyfikat bezpieczeństwa (SSL), Integracja z Google Analytics (Analytics) oraz Google Search Console (Search Console), Integracja z Twoimi profilami na mediach społecznościowych (Social Media), szkolenie z działania produktu (Szkolenie)</li>
+                        <li>Dodatki: undefined</li>
+                        <li>Czas realizacji: Rozbudowane projekty realizowane w 14 dni roboczych z dbałością o każdy szczegół.</li>
+                        <li>Cena:<strong> 2398 PLN</strong></li>
+                    </ul>
+
+                    <h2>Proces realiazacji po zakupie</h2>
+
+                    <ul>
+                        <li>1. Skontaktujemy się z Tobą, aby omówić szczegóły projektu.</li>
+                        <li>2. Prześlemy Ci formularz i poprosimy o uzupełnienie danymi które będą potrzebne do stworzenia Twojego produktu.</li>
+                        <li>3. Przystąpimy do pracy i będziemy na bieżąco informować Cię o postępach.</li>
+                        <li>4. Otrzymasz demo produktu, na podstawie którego określisz swoje uwagi i poprawki.</li>
+                        <li>5. Po zmianach, otrzymasz finalny produkt, gotowy do publikacji.</li>
+                    </ul>
+
+                    <h2>O Nas</h2>
+                    <p> Varsa Codes to nowoczesne studio programistyczne, specjalizujące się w tworzeniu skalowalnych i intuicyjnych stron internetowych oraz aplikacji webowych. Nasz zespół ekspertów kładzie nacisk na dopasowanie rozwiązań technologicznych do indywidualnych potrzeb klientów. Wykorzystujemy nowoczesne biblioteki JavaScript, takie jak React i Next.js, dostarczając produkty na najwyższym poziomie.
+        <br></br>
+        Dzięki innowacyjnemu podejściu i zaawansowanym technologiom wspieramy rozwój biznesów naszych klientów, tworząc rozwiązania cyfrowe, które zwiększają ich wzrost, efektywność i widoczność w dynamicznym środowisku online. 
+        <br></br>
+        Nasza oferta obejmuje nie tylko tworzenie stron internetowych, aplikacji i platform e-commerce, ale także eksperckie wsparcie w zakresie reklamy internetowej (Google Ads, kampanie digital) oraz rozwiązań z zakresu cyberbezpieczeństwa. Integrujemy również technologie AI i uczenia maszynowego, które zwiększają funkcjonalność i wartość dostarczanych produktów. </p>
+                    
+                    <h2>Kontakt</h2>
+                    <p>
+                        Masz pytania? Skontaktuj się z nami: <br>
+                        <strong>E-mail:</strong> hello@varsa.codes <br>
+                        <strong>Strona internetowa:</strong> <a href=""https://www.varsa.codes"">https://www.varsa.codes</a>
+                    </p>
+
+                    <h2>Najczęściej zadawane pytania</h2>
+                    <ol>
+                        
+                <li>
+                    <strong>Czym jest React i NextJS?</strong>
+                    <p>React to nowoczesna biblioteka JavaScript, która pozwala tworzyć dynamiczne i responsywne interfejsy użytkownika. Next.js to framework oparty na React, który oferuje dodatkowe funkcjonalności, takie jak serwerowe renderowanie stron (SSR), generowanie statycznych stron (SSG) oraz wbudowaną optymalizację wydajności i SEO. Dzięki tej kombinacji aplikacje są szybkie, skalowalne i przyjazne użytkownikowi.</p>
+                </li>
+            
+                <li>
+                    <strong>Dlaczego produkty cyfrowe oparte o React i NextJS są lepsze niż Wordpress?</strong>
+                    <p>Produkty oparte na React i Next.js są szybsze, bardziej bezpieczne i elastyczne. W przeciwieństwie do WordPressa, który często wymaga dodatkowych wtyczek, React i Next.js oferują pełną kontrolę nad kodem i lepsze dostosowanie do specyficznych potrzeb. Dodatkowo aplikacje zbudowane na tych technologiach są bardziej przyszłościowe i łatwiejsze do skalowania.</p>
+                </li>
+            
+                <li>
+                    <strong>Która z wymienionych technologii jest nowocześniejsza i bardziej przyszłościowa?</strong>
+                    <p>React i Next.js to jedne z najnowocześniejszych i najbardziej przyszłościowych technologii dostępnych na rynku. Dzięki wsparciu dużej społeczności programistów oraz firm takich jak Meta i Vercel, technologie te stale się rozwijają i oferują nowoczesne rozwiązania, które są zgodne z trendami w branży IT.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest JavaScript i dlaczego ta technologia ma przewagę nad Wordpress?</strong>
+                    <p>JavaScript to język programowania, który jest fundamentem nowoczesnych stron internetowych i aplikacji. Umożliwia dynamiczne i interaktywne funkcje na stronach, takie jak animacje czy zaawansowane formularze. W odróżnieniu od WordPressa, który jest systemem CMS opartym głównie na PHP, JavaScript oferuje większą szybkość działania, lepsze wsparcie dla aplikacji mobilnych oraz możliwość budowania złożonych aplikacji webowych.</p>
+                </li>
+            
+                <li>
+                    <strong>Co to jest CMS i jak się go używa?</strong>
+                    <p>CMS (System Zarządzania Treścią) to narzędzie, które pozwala łatwo zarządzać zawartością strony internetowej, taką jak teksty, obrazy czy produkty w sklepie. Przykłady CMS-ów to Sanity czy WordPress. Użytkownik nie musi mieć wiedzy programistycznej, aby aktualizować treści – wystarczy zalogować się do intuicyjnego panelu administracyjnego.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy zarządzanie stroną jest skomplikowane?</strong>
+                    <p>Nie, nasze strony są wyposażone w intuicyjny system CMS, który umożliwia łatwą edycję treści. Dodatkowo oferujemy szkolenie, które zapewnia pełne przygotowanie do samodzielnego zarządzania stroną.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy można ustalić dodatkowe funkcje strony/aplikacji?</strong>
+                    <p>Tak, oczywiście! Nasze studio jest otwarte na dopasowanie projektu do Twoich potrzeb. Jeśli masz pomysł na dodatkowe funkcje, zapraszamy do kontaktu. Wspólnie zaprojektujemy rozwiązanie, które w pełni odpowie na Twoje oczekiwania.</p>
+                </li>
+            
+                <li>
+                    <strong>Ile wynosi gwarancja działania strony?</strong>
+                    <p>Oferujemy gwarancję działania strony na 12 miesięcy. Dodatkowo zapewniamy podstawową opiekę serwisową przez 3 miesiące, którą można rozszerzyć do pełnych 12 miesięcy. Dzięki temu masz pewność, że Twoja strona będzie działała bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Co obejmuje opieka serwisowa?</strong>
+                    <p>Opieka serwisowa obejmuje: usuwanie błędów w działaniu strony, aktualizacje systemu i bezpieczeństwa, drobne zmiany w treści i układzie strony, oraz stałe wsparcie techniczne i doradztwo. Dzięki naszej opiece możesz skupić się na rozwijaniu biznesu, a my zadbamy o sprawne działanie Twojej strony.</p>
+                </li>
+            
+                <li>
+                    <strong>Mam własną domenę i hosting – czy mogę z nich skorzystać?</strong>
+                    <p>Tak. Zrealizowany projekt połączymy pod Państwa domenę i przeniesiemy na wskazany przez Państwa hosting. Wszystko odbywa się sprawnie i bezproblemowo.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy układ strony może być dostosowany do moich indywidualnych potrzeb?</strong>
+                    <p>Tak, projektujemy rozwiązania w pełni zgodne z indywidualnymi wymaganiami. Nie korzystamy z gotowych szablonów, co gwarantuje pełną unikalność i brak ograniczeń funkcjonalnych. Każda strona jest tworzona od podstaw i pozostaje własnością klienta.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy strona będzie kompatybilna z urządzeniami mobilnymi?</strong>
+                    <p>Tak, korzystamy z nowoczesnych bibliotek CSS dla React, tworzymy w pełni responsywne strony, które działają perfekcyjnie na urządzeniach mobilnych, tabletach i komputerach stacjonarnych.</p>
+                </li>
+            
+                <li>
+                    <strong>Czy występują dodatkowe, miesięczne opłaty związane z utrzymaniem strony?</strong>
+                    <p>Nie, dostarczamy gotowe rozwiązanie, które nie generuje dodatkowych kosztów utrzymania. Jeżeli zdecydują się Państwo na dodatkowe usługi, niebędące przedmiotem tej oferty, jak dodatkowe integracje z płatnymi SDK, koszty te będą jasno przedstawione w dodatkowej umowie.</p>
+                </li>
+             <!-- Injecting the FAQ HTML -->
+                    </ol>
+                    </div>
+                <div class=""footer"">
+                    &copy; 2024 Varsa Codes. Wszystkie prawa zastrzeżone.
+                </div>
+            </div>
+        </body>
+        </html>"
